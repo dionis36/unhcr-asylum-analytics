@@ -1,0 +1,4014 @@
+[
+  {
+    "country_iso": "USA",
+    "country_name": "United States of America",
+    "applications_filed_raw": 5553061,
+    "applications_filed_est": 6117705,
+    "cases_decided": 2617087,
+    "total_clearance_rate_pct": 42.78,
+    "pending_backlog_latest": 3718945,
+    "recent_annual_decisions": 428527,
+    "years_to_clear": 8.68,
+    "ghost_rate_pct": 57.64,
+    "refugee_grant_rate_pct": 43.41,
+    "total_protection_rate_pct": 43.62,
+    "court_stages": {
+      "AR": 153040,
+      "EO": 1247572,
+      "IN": 1216475
+    },
+    "authority_split": {
+      "Government": 2617087
+    }
+  },
+  {
+    "country_iso": "DEU",
+    "country_name": "Germany",
+    "applications_filed_raw": 4282844,
+    "applications_filed_est": 4282844,
+    "cases_decided": 4974062,
+    "total_clearance_rate_pct": 116.14,
+    "pending_backlog_latest": 297503,
+    "recent_annual_decisions": 407905,
+    "years_to_clear": 0.73,
+    "ghost_rate_pct": 30.16,
+    "refugee_grant_rate_pct": 29.89,
+    "total_protection_rate_pct": 53.64,
+    "court_stages": {
+      "FI": 1066897,
+      "JR": 1230952,
+      "RA": 429508
+    },
+    "authority_split": {
+      "Government": 4974062
+    }
+  },
+  {
+    "country_iso": "FRA",
+    "country_name": "France",
+    "applications_filed_raw": 2324151,
+    "applications_filed_est": 2324151,
+    "cases_decided": 2316994,
+    "total_clearance_rate_pct": 99.69,
+    "pending_backlog_latest": 85227,
+    "recent_annual_decisions": 206535,
+    "years_to_clear": 0.41,
+    "ghost_rate_pct": 4.71,
+    "refugee_grant_rate_pct": 18.2,
+    "total_protection_rate_pct": 27.43,
+    "court_stages": {
+      "AR": 707478,
+      "FI": 1566900,
+      "JR": 31521,
+      "RA": 11095
+    },
+    "authority_split": {
+      "Government": 2316994
+    }
+  },
+  {
+    "country_iso": "ITA",
+    "country_name": "Italy",
+    "applications_filed_raw": 1159515,
+    "applications_filed_est": 1159515,
+    "cases_decided": 939035,
+    "total_clearance_rate_pct": 80.99,
+    "pending_backlog_latest": 234144,
+    "recent_annual_decisions": 95149,
+    "years_to_clear": 2.46,
+    "ghost_rate_pct": 3.45,
+    "refugee_grant_rate_pct": 8.66,
+    "total_protection_rate_pct": 31.87,
+    "court_stages": {
+      "FI": 939035,
+      "RA": 0
+    },
+    "authority_split": {
+      "Government": 939035
+    }
+  },
+  {
+    "country_iso": "EGY",
+    "country_name": "Egypt",
+    "applications_filed_raw": 1145739,
+    "applications_filed_est": 1145739,
+    "cases_decided": 282339,
+    "total_clearance_rate_pct": 24.64,
+    "pending_backlog_latest": 878268,
+    "recent_annual_decisions": 42954,
+    "years_to_clear": 20.45,
+    "ghost_rate_pct": 43.12,
+    "refugee_grant_rate_pct": 76.78,
+    "total_protection_rate_pct": 77.35,
+    "court_stages": {
+      "AR": 22187,
+      "FA": 4525,
+      "FI": 251302,
+      "RA": 4325
+    },
+    "authority_split": {
+      "UNHCR": 282339
+    }
+  },
+  {
+    "country_iso": "GBR",
+    "country_name": "United Kingdom of Great Britain and Northern Ireland",
+    "applications_filed_raw": 1011871,
+    "applications_filed_est": 1062408,
+    "cases_decided": 921716,
+    "total_clearance_rate_pct": 86.76,
+    "pending_backlog_latest": 144747,
+    "recent_annual_decisions": 150564,
+    "years_to_clear": 0.96,
+    "ghost_rate_pct": 16.37,
+    "refugee_grant_rate_pct": 40.35,
+    "total_protection_rate_pct": 45.0,
+    "court_stages": {
+      "AR": 146066,
+      "FI": 754475,
+      "RA": 21175
+    },
+    "authority_split": {
+      "Government": 921674,
+      "UNHCR": 42
+    }
+  },
+  {
+    "country_iso": "ESP",
+    "country_name": "Spain",
+    "applications_filed_raw": 1004024,
+    "applications_filed_est": 1004024,
+    "cases_decided": 726425,
+    "total_clearance_rate_pct": 72.35,
+    "pending_backlog_latest": 248715,
+    "recent_annual_decisions": 128319,
+    "years_to_clear": 1.94,
+    "ghost_rate_pct": 4.53,
+    "refugee_grant_rate_pct": 6.15,
+    "total_protection_rate_pct": 48.96,
+    "court_stages": {
+      "FI": 726425
+    },
+    "authority_split": {
+      "Government": 726425
+    }
+  },
+  {
+    "country_iso": "CAN",
+    "country_name": "Canada",
+    "applications_filed_raw": 970089,
+    "applications_filed_est": 970089,
+    "cases_decided": 693955,
+    "total_clearance_rate_pct": 71.54,
+    "pending_backlog_latest": 314475,
+    "recent_annual_decisions": 92775,
+    "years_to_clear": 3.39,
+    "ghost_rate_pct": 14.06,
+    "refugee_grant_rate_pct": 59.6,
+    "total_protection_rate_pct": 59.6,
+    "court_stages": {
+      "AR": 100453,
+      "FI": 592472,
+      "JR": 666,
+      "RA": 364
+    },
+    "authority_split": {
+      "Government": 693955
+    }
+  },
+  {
+    "country_iso": "ZAF",
+    "country_name": "South Africa",
+    "applications_filed_raw": 859290,
+    "applications_filed_est": 859290,
+    "cases_decided": 1742734,
+    "total_clearance_rate_pct": 202.81,
+    "pending_backlog_latest": 82358,
+    "recent_annual_decisions": 23553,
+    "years_to_clear": 3.5,
+    "ghost_rate_pct": 62.67,
+    "refugee_grant_rate_pct": 10.82,
+    "total_protection_rate_pct": 10.82,
+    "court_stages": {
+      "AR": 829160,
+      "FA": 88540,
+      "FI": 781652,
+      "JR": 43382
+    },
+    "authority_split": {
+      "Government": 1742734
+    }
+  },
+  {
+    "country_iso": "TUR",
+    "country_name": "T\u00fcrkiye",
+    "applications_filed_raw": 802367,
+    "applications_filed_est": 802367,
+    "cases_decided": 617901,
+    "total_clearance_rate_pct": 77.01,
+    "pending_backlog_latest": 102497,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 63.07,
+    "refugee_grant_rate_pct": 73.41,
+    "total_protection_rate_pct": 73.41,
+    "court_stages": {
+      "AR": 8629,
+      "FI": 607982,
+      "RA": 1290
+    },
+    "authority_split": {
+      "Government": 297569,
+      "UNHCR": 320332
+    }
+  },
+  {
+    "country_iso": "GRC",
+    "country_name": "Greece",
+    "applications_filed_raw": 785352,
+    "applications_filed_est": 785352,
+    "cases_decided": 835115,
+    "total_clearance_rate_pct": 106.34,
+    "pending_backlog_latest": 31928,
+    "recent_annual_decisions": 80668,
+    "years_to_clear": 0.4,
+    "ghost_rate_pct": 38.23,
+    "refugee_grant_rate_pct": 38.67,
+    "total_protection_rate_pct": 45.62,
+    "court_stages": {
+      "AR": 207336,
+      "FI": 627779,
+      "RA": 0
+    },
+    "authority_split": {
+      "Government": 835115
+    }
+  },
+  {
+    "country_iso": "SWE",
+    "country_name": "Sweden",
+    "applications_filed_raw": 784592,
+    "applications_filed_est": 784592,
+    "cases_decided": 807438,
+    "total_clearance_rate_pct": 102.91,
+    "pending_backlog_latest": 4661,
+    "recent_annual_decisions": 20067,
+    "years_to_clear": 0.23,
+    "ghost_rate_pct": 17.47,
+    "refugee_grant_rate_pct": 14.85,
+    "total_protection_rate_pct": 39.42,
+    "court_stages": {
+      "AR": 208411,
+      "FI": 513814,
+      "JR": 41425,
+      "RA": 43788
+    },
+    "authority_split": {
+      "Government": 807438
+    }
+  },
+  {
+    "country_iso": "MEX",
+    "country_name": "Mexico",
+    "applications_filed_raw": 713850,
+    "applications_filed_est": 713850,
+    "cases_decided": 433501,
+    "total_clearance_rate_pct": 60.73,
+    "pending_backlog_latest": 173532,
+    "recent_annual_decisions": 85770,
+    "years_to_clear": 2.02,
+    "ghost_rate_pct": 50.3,
+    "refugee_grant_rate_pct": 69.05,
+    "total_protection_rate_pct": 73.67,
+    "court_stages": {
+      "FA": 274,
+      "FI": 433227
+    },
+    "authority_split": {
+      "Government": 433501
+    }
+  },
+  {
+    "country_iso": "RUS",
+    "country_name": "Russian Federation",
+    "applications_filed_raw": 635436,
+    "applications_filed_est": 635436,
+    "cases_decided": 635699,
+    "total_clearance_rate_pct": 100.04,
+    "pending_backlog_latest": 976,
+    "recent_annual_decisions": 7724,
+    "years_to_clear": 0.13,
+    "ghost_rate_pct": 6.69,
+    "refugee_grant_rate_pct": 22.98,
+    "total_protection_rate_pct": 97.27,
+    "court_stages": {
+      "FI": 19597,
+      "TA": 616102
+    },
+    "authority_split": {
+      "Government": 635699
+    }
+  },
+  {
+    "country_iso": "PER",
+    "country_name": "Peru",
+    "applications_filed_raw": 610596,
+    "applications_filed_est": 610596,
+    "cases_decided": 154389,
+    "total_clearance_rate_pct": 25.28,
+    "pending_backlog_latest": 556770,
+    "recent_annual_decisions": 1608,
+    "years_to_clear": 346.25,
+    "ghost_rate_pct": 92.02,
+    "refugee_grant_rate_pct": 54.84,
+    "total_protection_rate_pct": 54.88,
+    "court_stages": {
+      "FI": 154389
+    },
+    "authority_split": {
+      "Government": 154389
+    }
+  },
+  {
+    "country_iso": "AUT",
+    "country_name": "Austria",
+    "applications_filed_raw": 532712,
+    "applications_filed_est": 532712,
+    "cases_decided": 513833,
+    "total_clearance_rate_pct": 96.46,
+    "pending_backlog_latest": 22014,
+    "recent_annual_decisions": 27564,
+    "years_to_clear": 0.8,
+    "ghost_rate_pct": 25.85,
+    "refugee_grant_rate_pct": 45.66,
+    "total_protection_rate_pct": 61.17,
+    "court_stages": {
+      "FA": 513833,
+      "JR": 0,
+      "RA": 0
+    },
+    "authority_split": {
+      "Government": 513833
+    }
+  },
+  {
+    "country_iso": "BRA",
+    "country_name": "Brazil",
+    "applications_filed_raw": 524551,
+    "applications_filed_est": 524551,
+    "cases_decided": 461159,
+    "total_clearance_rate_pct": 87.91,
+    "pending_backlog_latest": 119651,
+    "recent_annual_decisions": 62148,
+    "years_to_clear": 1.93,
+    "ghost_rate_pct": 61.71,
+    "refugee_grant_rate_pct": 92.81,
+    "total_protection_rate_pct": 93.26,
+    "court_stages": {
+      "FA": 50564,
+      "FI": 410595
+    },
+    "authority_split": {
+      "Government": 461159
+    }
+  },
+  {
+    "country_iso": "BEL",
+    "country_name": "Belgium",
+    "applications_filed_raw": 520933,
+    "applications_filed_est": 520933,
+    "cases_decided": 445995,
+    "total_clearance_rate_pct": 85.61,
+    "pending_backlog_latest": 58725,
+    "recent_annual_decisions": 39698,
+    "years_to_clear": 1.48,
+    "ghost_rate_pct": 11.11,
+    "refugee_grant_rate_pct": 31.14,
+    "total_protection_rate_pct": 36.59,
+    "court_stages": {
+      "AR": 15859,
+      "FI": 337758,
+      "JR": 60284,
+      "RA": 32094
+    },
+    "authority_split": {
+      "Government": 445995
+    }
+  },
+  {
+    "country_iso": "AUS",
+    "country_name": "Australia",
+    "applications_filed_raw": 469668,
+    "applications_filed_est": 469668,
+    "cases_decided": 426418,
+    "total_clearance_rate_pct": 90.79,
+    "pending_backlog_latest": 82925,
+    "recent_annual_decisions": 40515,
+    "years_to_clear": 2.05,
+    "ghost_rate_pct": 15.22,
+    "refugee_grant_rate_pct": 27.33,
+    "total_protection_rate_pct": 27.33,
+    "court_stages": {
+      "AR": 126763,
+      "FA": 33256,
+      "FI": 260799,
+      "JR": 5600
+    },
+    "authority_split": {
+      "Government": 426418
+    }
+  },
+  {
+    "country_iso": "CRI",
+    "country_name": "Costa Rica",
+    "applications_filed_raw": 468707,
+    "applications_filed_est": 468707,
+    "cases_decided": 208773,
+    "total_clearance_rate_pct": 44.54,
+    "pending_backlog_latest": 178212,
+    "recent_annual_decisions": 40024,
+    "years_to_clear": 4.45,
+    "ghost_rate_pct": 77.25,
+    "refugee_grant_rate_pct": 36.7,
+    "total_protection_rate_pct": 36.7,
+    "court_stages": {
+      "AR": 8119,
+      "FI": 200654
+    },
+    "authority_split": {
+      "Government": 208773
+    }
+  },
+  {
+    "country_iso": "UGA",
+    "country_name": "Uganda",
+    "applications_filed_raw": 464770,
+    "applications_filed_est": 464770,
+    "cases_decided": 458242,
+    "total_clearance_rate_pct": 98.6,
+    "pending_backlog_latest": 35249,
+    "recent_annual_decisions": 25645,
+    "years_to_clear": 1.37,
+    "ghost_rate_pct": 11.56,
+    "refugee_grant_rate_pct": 88.12,
+    "total_protection_rate_pct": 88.12,
+    "court_stages": {
+      "AR": 2801,
+      "FA": 198867,
+      "FI": 256574,
+      "RA": 0
+    },
+    "authority_split": {
+      "Government": 458242
+    }
+  },
+  {
+    "country_iso": "KEN",
+    "country_name": "Kenya",
+    "applications_filed_raw": 434570,
+    "applications_filed_est": 434570,
+    "cases_decided": 264964,
+    "total_clearance_rate_pct": 60.97,
+    "pending_backlog_latest": 218646,
+    "recent_annual_decisions": 27524,
+    "years_to_clear": 7.94,
+    "ghost_rate_pct": 53.56,
+    "refugee_grant_rate_pct": 77.24,
+    "total_protection_rate_pct": 92.39,
+    "court_stages": {
+      "AR": 11623,
+      "FI": 253341
+    },
+    "authority_split": {
+      "Government": 117789,
+      "Joint": 40065,
+      "UNHCR": 107110
+    }
+  },
+  {
+    "country_iso": "NLD",
+    "country_name": "Netherlands (Kingdom of the)",
+    "applications_filed_raw": 395868,
+    "applications_filed_est": 395868,
+    "cases_decided": 322408,
+    "total_clearance_rate_pct": 81.44,
+    "pending_backlog_latest": 49662,
+    "recent_annual_decisions": 26758,
+    "years_to_clear": 1.86,
+    "ghost_rate_pct": 14.35,
+    "refugee_grant_rate_pct": 45.56,
+    "total_protection_rate_pct": 62.44,
+    "court_stages": {
+      "FI": 293333,
+      "JR": 8432,
+      "RA": 20643
+    },
+    "authority_split": {
+      "Government": 322408
+    }
+  },
+  {
+    "country_iso": "CHE",
+    "country_name": "Switzerland",
+    "applications_filed_raw": 367152,
+    "applications_filed_est": 367152,
+    "cases_decided": 405700,
+    "total_clearance_rate_pct": 110.5,
+    "pending_backlog_latest": 17039,
+    "recent_annual_decisions": 32886,
+    "years_to_clear": 0.52,
+    "ghost_rate_pct": 34.9,
+    "refugee_grant_rate_pct": 34.72,
+    "total_protection_rate_pct": 68.44,
+    "court_stages": {
+      "AR": 14511,
+      "FI": 389306,
+      "RA": 0,
+      "TP": 1883
+    },
+    "authority_split": {
+      "Government": 405700
+    }
+  },
+  {
+    "country_iso": "MYS",
+    "country_name": "Malaysia",
+    "applications_filed_raw": 325314,
+    "applications_filed_est": 325314,
+    "cases_decided": 275240,
+    "total_clearance_rate_pct": 84.61,
+    "pending_backlog_latest": 63011,
+    "recent_annual_decisions": 6786,
+    "years_to_clear": 9.29,
+    "ghost_rate_pct": 19.44,
+    "refugee_grant_rate_pct": 87.49,
+    "total_protection_rate_pct": 87.49,
+    "court_stages": {
+      "AR": 12385,
+      "FI": 262855
+    },
+    "authority_split": {
+      "UNHCR": 275240
+    }
+  },
+  {
+    "country_iso": "HUN",
+    "country_name": "Hungary",
+    "applications_filed_raw": 279075,
+    "applications_filed_est": 279075,
+    "cases_decided": 270384,
+    "total_clearance_rate_pct": 96.89,
+    "pending_backlog_latest": 42,
+    "recent_annual_decisions": 36,
+    "years_to_clear": 1.17,
+    "ghost_rate_pct": 90.0,
+    "refugee_grant_rate_pct": 4.61,
+    "total_protection_rate_pct": 16.06,
+    "court_stages": {
+      "AR": 0,
+      "FA": 210216,
+      "FI": 60168,
+      "RA": 0
+    },
+    "authority_split": {
+      "Government": 270384
+    }
+  },
+  {
+    "country_iso": "NOR",
+    "country_name": "Norway",
+    "applications_filed_raw": 192675,
+    "applications_filed_est": 192675,
+    "cases_decided": 202970,
+    "total_clearance_rate_pct": 105.34,
+    "pending_backlog_latest": 6280,
+    "recent_annual_decisions": 6037,
+    "years_to_clear": 1.04,
+    "ghost_rate_pct": 19.62,
+    "refugee_grant_rate_pct": 30.9,
+    "total_protection_rate_pct": 37.76,
+    "court_stages": {
+      "AR": 76227,
+      "FI": 124986,
+      "RA": 1757
+    },
+    "authority_split": {
+      "Government": 202970
+    }
+  },
+  {
+    "country_iso": "JPN",
+    "country_name": "Japan",
+    "applications_filed_raw": 189798,
+    "applications_filed_est": 189798,
+    "cases_decided": 169766,
+    "total_clearance_rate_pct": 89.45,
+    "pending_backlog_latest": 22647,
+    "recent_annual_decisions": 17512,
+    "years_to_clear": 1.29,
+    "ghost_rate_pct": 19.5,
+    "refugee_grant_rate_pct": 2.14,
+    "total_protection_rate_pct": 6.52,
+    "court_stages": {
+      "AR": 61117,
+      "FA": 7266,
+      "FI": 101263,
+      "JR": 120
+    },
+    "authority_split": {
+      "Government": 169766
+    }
+  },
+  {
+    "country_iso": "COD",
+    "country_name": "Dem. Rep. of the Congo",
+    "applications_filed_raw": 183419,
+    "applications_filed_est": 183419,
+    "cases_decided": 83920,
+    "total_clearance_rate_pct": 45.75,
+    "pending_backlog_latest": 100112,
+    "recent_annual_decisions": 4242,
+    "years_to_clear": 23.6,
+    "ghost_rate_pct": 5.25,
+    "refugee_grant_rate_pct": 99.15,
+    "total_protection_rate_pct": 99.23,
+    "court_stages": {
+      "FI": 83920
+    },
+    "authority_split": {
+      "Government": 83303,
+      "UNHCR": 617
+    }
+  },
+  {
+    "country_iso": "SDN",
+    "country_name": "Sudan",
+    "applications_filed_raw": 171191,
+    "applications_filed_est": 171191,
+    "cases_decided": 141382,
+    "total_clearance_rate_pct": 82.59,
+    "pending_backlog_latest": 50147,
+    "recent_annual_decisions": 9225,
+    "years_to_clear": 5.44,
+    "ghost_rate_pct": 37.42,
+    "refugee_grant_rate_pct": 94.79,
+    "total_protection_rate_pct": 95.03,
+    "court_stages": {
+      "AR": 214,
+      "FA": 21666,
+      "FI": 119502
+    },
+    "authority_split": {
+      "Government": 119559,
+      "UNHCR": 21823
+    }
+  },
+  {
+    "country_iso": "CYP",
+    "country_name": "Cyprus",
+    "applications_filed_raw": 157889,
+    "applications_filed_est": 157889,
+    "cases_decided": 139635,
+    "total_clearance_rate_pct": 88.44,
+    "pending_backlog_latest": 23162,
+    "recent_annual_decisions": 15799,
+    "years_to_clear": 1.47,
+    "ghost_rate_pct": 32.5,
+    "refugee_grant_rate_pct": 5.27,
+    "total_protection_rate_pct": 22.94,
+    "court_stages": {
+      "AR": 14862,
+      "FA": 54271,
+      "FI": 40127,
+      "JR": 30096,
+      "RA": 279
+    },
+    "authority_split": {
+      "Government": 139193,
+      "UNHCR": 442
+    }
+  },
+  {
+    "country_iso": "KOR",
+    "country_name": "Rep. of Korea",
+    "applications_filed_raw": 154823,
+    "applications_filed_est": 154823,
+    "cases_decided": 117504,
+    "total_clearance_rate_pct": 75.9,
+    "pending_backlog_latest": 39106,
+    "recent_annual_decisions": 15742,
+    "years_to_clear": 2.48,
+    "ghost_rate_pct": 30.99,
+    "refugee_grant_rate_pct": 1.29,
+    "total_protection_rate_pct": 4.6,
+    "court_stages": {
+      "AR": 14467,
+      "FA": 60469,
+      "FI": 41767,
+      "JR": 801
+    },
+    "authority_split": {
+      "Government": 117504
+    }
+  },
+  {
+    "country_iso": "ECU",
+    "country_name": "Ecuador",
+    "applications_filed_raw": 153695,
+    "applications_filed_est": 153695,
+    "cases_decided": 151629,
+    "total_clearance_rate_pct": 98.66,
+    "pending_backlog_latest": 8571,
+    "recent_annual_decisions": 9037,
+    "years_to_clear": 0.95,
+    "ghost_rate_pct": 36.51,
+    "refugee_grant_rate_pct": 33.26,
+    "total_protection_rate_pct": 40.24,
+    "court_stages": {
+      "FA": 148214,
+      "FI": 3415
+    },
+    "authority_split": {
+      "Government": 151629
+    }
+  },
+  {
+    "country_iso": "POL",
+    "country_name": "Poland",
+    "applications_filed_raw": 149517,
+    "applications_filed_est": 149517,
+    "cases_decided": 157980,
+    "total_clearance_rate_pct": 105.66,
+    "pending_backlog_latest": 13848,
+    "recent_annual_decisions": 11770,
+    "years_to_clear": 1.18,
+    "ghost_rate_pct": 51.39,
+    "refugee_grant_rate_pct": 6.29,
+    "total_protection_rate_pct": 35.5,
+    "court_stages": {
+      "AR": 13518,
+      "FI": 144462,
+      "RA": 0
+    },
+    "authority_split": {
+      "Government": 157980
+    }
+  },
+  {
+    "country_iso": "BGR",
+    "country_name": "Bulgaria",
+    "applications_filed_raw": 143216,
+    "applications_filed_est": 143216,
+    "cases_decided": 143176,
+    "total_clearance_rate_pct": 99.97,
+    "pending_backlog_latest": 1317,
+    "recent_annual_decisions": 12630,
+    "years_to_clear": 0.1,
+    "ghost_rate_pct": 58.94,
+    "refugee_grant_rate_pct": 22.1,
+    "total_protection_rate_pct": 65.79,
+    "court_stages": {
+      "FA": 100038,
+      "FI": 43138,
+      "RA": 0
+    },
+    "authority_split": {
+      "Government": 143176
+    }
+  },
+  {
+    "country_iso": "NER",
+    "country_name": "Niger",
+    "applications_filed_raw": 133299,
+    "applications_filed_est": 133299,
+    "cases_decided": 83290,
+    "total_clearance_rate_pct": 62.48,
+    "pending_backlog_latest": 50004,
+    "recent_annual_decisions": 7197,
+    "years_to_clear": 6.95,
+    "ghost_rate_pct": 91.04,
+    "refugee_grant_rate_pct": 90.33,
+    "total_protection_rate_pct": 90.58,
+    "court_stages": {
+      "AR": 522,
+      "FI": 82768
+    },
+    "authority_split": {
+      "Government": 78042,
+      "Joint": 5248
+    }
+  },
+  {
+    "country_iso": "IRL",
+    "country_name": "Ireland",
+    "applications_filed_raw": 132606,
+    "applications_filed_est": 132606,
+    "cases_decided": 108194,
+    "total_clearance_rate_pct": 81.59,
+    "pending_backlog_latest": 33728,
+    "recent_annual_decisions": 21620,
+    "years_to_clear": 1.56,
+    "ghost_rate_pct": 15.62,
+    "refugee_grant_rate_pct": 22.16,
+    "total_protection_rate_pct": 24.3,
+    "court_stages": {
+      "AR": 23676,
+      "FI": 76903,
+      "RA": 0,
+      "SP": 7615
+    },
+    "authority_split": {
+      "Government": 108194
+    }
+  },
+  {
+    "country_iso": "ETH",
+    "country_name": "Ethiopia",
+    "applications_filed_raw": 131193,
+    "applications_filed_est": 131193,
+    "cases_decided": 18352,
+    "total_clearance_rate_pct": 13.99,
+    "pending_backlog_latest": 112987,
+    "recent_annual_decisions": 2977,
+    "years_to_clear": 37.95,
+    "ghost_rate_pct": 48.62,
+    "refugee_grant_rate_pct": 64.39,
+    "total_protection_rate_pct": 92.19,
+    "court_stages": {
+      "FI": 16885
+    },
+    "authority_split": {
+      "Government": 1467,
+      "Joint": 16885
+    }
+  },
+  {
+    "country_iso": "LBY",
+    "country_name": "Libya",
+    "applications_filed_raw": 126801,
+    "applications_filed_est": 126801,
+    "cases_decided": 104149,
+    "total_clearance_rate_pct": 82.14,
+    "pending_backlog_latest": 105954,
+    "recent_annual_decisions": 8165,
+    "years_to_clear": 12.98,
+    "ghost_rate_pct": 89.62,
+    "refugee_grant_rate_pct": 94.78,
+    "total_protection_rate_pct": 94.78,
+    "court_stages": {
+      "FI": 104149
+    },
+    "authority_split": {
+      "UNHCR": 104149
+    }
+  },
+  {
+    "country_iso": "ZMB",
+    "country_name": "Zambia",
+    "applications_filed_raw": 109472,
+    "applications_filed_est": 109472,
+    "cases_decided": 96659,
+    "total_clearance_rate_pct": 88.3,
+    "pending_backlog_latest": 12906,
+    "recent_annual_decisions": 5922,
+    "years_to_clear": 2.18,
+    "ghost_rate_pct": 10.88,
+    "refugee_grant_rate_pct": 95.22,
+    "total_protection_rate_pct": 95.22,
+    "court_stages": {
+      "FA": 540,
+      "FI": 96119
+    },
+    "authority_split": {
+      "Government": 96659
+    }
+  },
+  {
+    "country_iso": "DNK",
+    "country_name": "Denmark",
+    "applications_filed_raw": 106909,
+    "applications_filed_est": 106909,
+    "cases_decided": 82156,
+    "total_clearance_rate_pct": 76.85,
+    "pending_backlog_latest": 2738,
+    "recent_annual_decisions": 2804,
+    "years_to_clear": 0.98,
+    "ghost_rate_pct": 3.43,
+    "refugee_grant_rate_pct": 34.98,
+    "total_protection_rate_pct": 52.87,
+    "court_stages": {
+      "AR": 17908,
+      "FI": 64248,
+      "RA": 0
+    },
+    "authority_split": {
+      "Government": 82156
+    }
+  },
+  {
+    "country_iso": "ISR",
+    "country_name": "Israel",
+    "applications_filed_raw": 105859,
+    "applications_filed_est": 105859,
+    "cases_decided": 80219,
+    "total_clearance_rate_pct": 75.78,
+    "pending_backlog_latest": 29682,
+    "recent_annual_decisions": 5768,
+    "years_to_clear": 5.15,
+    "ghost_rate_pct": 45.18,
+    "refugee_grant_rate_pct": 2.44,
+    "total_protection_rate_pct": 4.24,
+    "court_stages": {
+      "FA": 71914,
+      "FI": 8305
+    },
+    "authority_split": {
+      "Government": 77547,
+      "UNHCR": 2672
+    }
+  },
+  {
+    "country_iso": "NGA",
+    "country_name": "Nigeria",
+    "applications_filed_raw": 104589,
+    "applications_filed_est": 104589,
+    "cases_decided": 79532,
+    "total_clearance_rate_pct": 76.04,
+    "pending_backlog_latest": 18192,
+    "recent_annual_decisions": 25537,
+    "years_to_clear": 0.71,
+    "ghost_rate_pct": 19.8,
+    "refugee_grant_rate_pct": 97.59,
+    "total_protection_rate_pct": 97.92,
+    "court_stages": {
+      "AR": 96,
+      "FA": 38222,
+      "FI": 41214
+    },
+    "authority_split": {
+      "Government": 79532
+    }
+  },
+  {
+    "country_iso": "BDI",
+    "country_name": "Burundi",
+    "applications_filed_raw": 102162,
+    "applications_filed_est": 102162,
+    "cases_decided": 103406,
+    "total_clearance_rate_pct": 101.22,
+    "pending_backlog_latest": 1466,
+    "recent_annual_decisions": 2519,
+    "years_to_clear": 0.58,
+    "ghost_rate_pct": 19.03,
+    "refugee_grant_rate_pct": 93.71,
+    "total_protection_rate_pct": 94.21,
+    "court_stages": {
+      "AR": 6795,
+      "FA": 42988,
+      "FI": 53623
+    },
+    "authority_split": {
+      "Government": 103406
+    }
+  },
+  {
+    "country_iso": "JOR",
+    "country_name": "Jordan",
+    "applications_filed_raw": 101542,
+    "applications_filed_est": 101542,
+    "cases_decided": 57535,
+    "total_clearance_rate_pct": 56.66,
+    "pending_backlog_latest": 8068,
+    "recent_annual_decisions": 1010,
+    "years_to_clear": 7.99,
+    "ghost_rate_pct": 16.67,
+    "refugee_grant_rate_pct": 91.43,
+    "total_protection_rate_pct": 91.46,
+    "court_stages": {
+      "AR": 1037,
+      "FA": 11464,
+      "FI": 44747,
+      "RA": 287
+    },
+    "authority_split": {
+      "UNHCR": 57535
+    }
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "applications_filed_raw": 94273,
+    "applications_filed_est": 94273,
+    "cases_decided": 92613,
+    "total_clearance_rate_pct": 98.24,
+    "pending_backlog_latest": 15075,
+    "recent_annual_decisions": 4108,
+    "years_to_clear": 3.67,
+    "ghost_rate_pct": 33.11,
+    "refugee_grant_rate_pct": 79.74,
+    "total_protection_rate_pct": 79.74,
+    "court_stages": {
+      "AR": 8444,
+      "FI": 84169
+    },
+    "authority_split": {
+      "UNHCR": 92613
+    }
+  },
+  {
+    "country_iso": "FIN",
+    "country_name": "Finland",
+    "applications_filed_raw": 92159,
+    "applications_filed_est": 92159,
+    "cases_decided": 104147,
+    "total_clearance_rate_pct": 113.01,
+    "pending_backlog_latest": 1879,
+    "recent_annual_decisions": 4650,
+    "years_to_clear": 0.4,
+    "ghost_rate_pct": 29.92,
+    "refugee_grant_rate_pct": 31.62,
+    "total_protection_rate_pct": 45.68,
+    "court_stages": {
+      "AR": 593,
+      "FI": 90504,
+      "RA": 13050
+    },
+    "authority_split": {
+      "Government": 104147
+    }
+  },
+  {
+    "country_iso": "MWI",
+    "country_name": "Malawi",
+    "applications_filed_raw": 89688,
+    "applications_filed_est": 89688,
+    "cases_decided": 68891,
+    "total_clearance_rate_pct": 76.81,
+    "pending_backlog_latest": 25251,
+    "recent_annual_decisions": 1265,
+    "years_to_clear": 19.96,
+    "ghost_rate_pct": 49.5,
+    "refugee_grant_rate_pct": 95.41,
+    "total_protection_rate_pct": 95.6,
+    "court_stages": {
+      "AR": 2359,
+      "FI": 66532
+    },
+    "authority_split": {
+      "Government": 68891
+    }
+  },
+  {
+    "country_iso": "CMR",
+    "country_name": "Cameroon",
+    "applications_filed_raw": 85086,
+    "applications_filed_est": 85086,
+    "cases_decided": 67769,
+    "total_clearance_rate_pct": 79.65,
+    "pending_backlog_latest": 18553,
+    "recent_annual_decisions": 5229,
+    "years_to_clear": 3.55,
+    "ghost_rate_pct": 34.5,
+    "refugee_grant_rate_pct": 74.57,
+    "total_protection_rate_pct": 74.57,
+    "court_stages": {
+      "AR": 3542,
+      "FA": 5494,
+      "FI": 55966,
+      "RA": 2767
+    },
+    "authority_split": {
+      "UNHCR": 67769
+    }
+  },
+  {
+    "country_iso": "PAK",
+    "country_name": "Pakistan",
+    "applications_filed_raw": 83167,
+    "applications_filed_est": 83167,
+    "cases_decided": 61498,
+    "total_clearance_rate_pct": 73.95,
+    "pending_backlog_latest": 119502,
+    "recent_annual_decisions": 9277,
+    "years_to_clear": 12.88,
+    "ghost_rate_pct": 38.05,
+    "refugee_grant_rate_pct": 60.68,
+    "total_protection_rate_pct": 60.68,
+    "court_stages": {
+      "AR": 7225,
+      "FA": 8073,
+      "FI": 46200
+    },
+    "authority_split": {
+      "UNHCR": 61498
+    }
+  },
+  {
+    "country_iso": "CIV",
+    "country_name": "Cote d'Ivoire",
+    "applications_filed_raw": 82820,
+    "applications_filed_est": 82820,
+    "cases_decided": 77106,
+    "total_clearance_rate_pct": 93.1,
+    "pending_backlog_latest": 8177,
+    "recent_annual_decisions": 36194,
+    "years_to_clear": 0.23,
+    "ghost_rate_pct": 94.78,
+    "refugee_grant_rate_pct": 81.43,
+    "total_protection_rate_pct": 81.43,
+    "court_stages": {
+      "FA": 76853,
+      "FI": 253
+    },
+    "authority_split": {
+      "Government": 75696,
+      "Joint": 1410
+    }
+  },
+  {
+    "country_iso": "TZA",
+    "country_name": "United Rep. of Tanzania",
+    "applications_filed_raw": 73515,
+    "applications_filed_est": 73515,
+    "cases_decided": 20971,
+    "total_clearance_rate_pct": 28.53,
+    "pending_backlog_latest": 43262,
+    "recent_annual_decisions": 2732,
+    "years_to_clear": 15.84,
+    "ghost_rate_pct": 86.41,
+    "refugee_grant_rate_pct": 66.65,
+    "total_protection_rate_pct": 66.65,
+    "court_stages": {
+      "FA": 35,
+      "FI": 20936
+    },
+    "authority_split": {
+      "Government": 19573,
+      "Joint": 1398
+    }
+  },
+  {
+    "country_iso": "URY",
+    "country_name": "Uruguay",
+    "applications_filed_raw": 71600,
+    "applications_filed_est": 71600,
+    "cases_decided": 44168,
+    "total_clearance_rate_pct": 61.69,
+    "pending_backlog_latest": 27288,
+    "recent_annual_decisions": 11259,
+    "years_to_clear": 2.42,
+    "ghost_rate_pct": 92.46,
+    "refugee_grant_rate_pct": 89.07,
+    "total_protection_rate_pct": 89.07,
+    "court_stages": {
+      "FI": 44168
+    },
+    "authority_split": {
+      "Government": 44168
+    }
+  },
+  {
+    "country_iso": "COL",
+    "country_name": "Colombia",
+    "applications_filed_raw": 70565,
+    "applications_filed_est": 70565,
+    "cases_decided": 53252,
+    "total_clearance_rate_pct": 75.47,
+    "pending_backlog_latest": 17421,
+    "recent_annual_decisions": 10858,
+    "years_to_clear": 1.6,
+    "ghost_rate_pct": 94.68,
+    "refugee_grant_rate_pct": 60.97,
+    "total_protection_rate_pct": 60.97,
+    "court_stages": {
+      "AR": 91,
+      "FI": 53161
+    },
+    "authority_split": {
+      "Government": 53252
+    }
+  },
+  {
+    "country_iso": "LBN",
+    "country_name": "Lebanon",
+    "applications_filed_raw": 66748,
+    "applications_filed_est": 66748,
+    "cases_decided": 53881,
+    "total_clearance_rate_pct": 80.72,
+    "pending_backlog_latest": 7617,
+    "recent_annual_decisions": 895,
+    "years_to_clear": 8.51,
+    "ghost_rate_pct": 34.54,
+    "refugee_grant_rate_pct": 73.12,
+    "total_protection_rate_pct": 73.19,
+    "court_stages": {
+      "AR": 4844,
+      "FI": 48843,
+      "RA": 194
+    },
+    "authority_split": {
+      "UNHCR": 53881
+    }
+  },
+  {
+    "country_iso": "ROU",
+    "country_name": "Romania",
+    "applications_filed_raw": 64748,
+    "applications_filed_est": 64748,
+    "cases_decided": 62119,
+    "total_clearance_rate_pct": 95.94,
+    "pending_backlog_latest": 316,
+    "recent_annual_decisions": 2501,
+    "years_to_clear": 0.13,
+    "ghost_rate_pct": 44.57,
+    "refugee_grant_rate_pct": 17.16,
+    "total_protection_rate_pct": 33.72,
+    "court_stages": {
+      "FA": 5115,
+      "FI": 54522,
+      "JR": 2482,
+      "RA": 0
+    },
+    "authority_split": {
+      "Government": 62119
+    }
+  },
+  {
+    "country_iso": "TGO",
+    "country_name": "Togo",
+    "applications_filed_raw": 59978,
+    "applications_filed_est": 59978,
+    "cases_decided": 55847,
+    "total_clearance_rate_pct": 93.11,
+    "pending_backlog_latest": 4282,
+    "recent_annual_decisions": 11344,
+    "years_to_clear": 0.38,
+    "ghost_rate_pct": 1.36,
+    "refugee_grant_rate_pct": 78.57,
+    "total_protection_rate_pct": 98.2,
+    "court_stages": {
+      "AR": 240,
+      "FA": 372,
+      "FI": 55235
+    },
+    "authority_split": {
+      "Government": 55847
+    }
+  },
+  {
+    "country_iso": "MAR",
+    "country_name": "Morocco",
+    "applications_filed_raw": 55351,
+    "applications_filed_est": 55351,
+    "cases_decided": 41407,
+    "total_clearance_rate_pct": 74.81,
+    "pending_backlog_latest": 15033,
+    "recent_annual_decisions": 3224,
+    "years_to_clear": 4.66,
+    "ghost_rate_pct": 61.75,
+    "refugee_grant_rate_pct": 27.23,
+    "total_protection_rate_pct": 27.36,
+    "court_stages": {
+      "AR": 3370,
+      "FI": 38037
+    },
+    "authority_split": {
+      "UNHCR": 41407
+    }
+  },
+  {
+    "country_iso": "CAF",
+    "country_name": "Central African Rep.",
+    "applications_filed_raw": 54117,
+    "applications_filed_est": 54117,
+    "cases_decided": 46875,
+    "total_clearance_rate_pct": 86.62,
+    "pending_backlog_latest": 8454,
+    "recent_annual_decisions": 21244,
+    "years_to_clear": 0.4,
+    "ghost_rate_pct": 45.48,
+    "refugee_grant_rate_pct": 86.84,
+    "total_protection_rate_pct": 90.2,
+    "court_stages": {
+      "FA": 44361,
+      "FI": 2514
+    },
+    "authority_split": {
+      "Government": 46875
+    }
+  },
+  {
+    "country_iso": "RWA",
+    "country_name": "Rwanda",
+    "applications_filed_raw": 49725,
+    "applications_filed_est": 49725,
+    "cases_decided": 34817,
+    "total_clearance_rate_pct": 70.02,
+    "pending_backlog_latest": 15251,
+    "recent_annual_decisions": 909,
+    "years_to_clear": 16.78,
+    "ghost_rate_pct": 1.77,
+    "refugee_grant_rate_pct": 96.98,
+    "total_protection_rate_pct": 97.0,
+    "court_stages": {
+      "FA": 995,
+      "FI": 33822
+    },
+    "authority_split": {
+      "Government": 16794,
+      "Joint": 15903,
+      "UNHCR": 2120
+    }
+  },
+  {
+    "country_iso": "YEM",
+    "country_name": "Yemen",
+    "applications_filed_raw": 49403,
+    "applications_filed_est": 49403,
+    "cases_decided": 36565,
+    "total_clearance_rate_pct": 74.01,
+    "pending_backlog_latest": 14642,
+    "recent_annual_decisions": 2509,
+    "years_to_clear": 5.84,
+    "ghost_rate_pct": 77.69,
+    "refugee_grant_rate_pct": 67.53,
+    "total_protection_rate_pct": 68.55,
+    "court_stages": {
+      "AR": 275,
+      "FA": 11282,
+      "FI": 25008
+    },
+    "authority_split": {
+      "UNHCR": 36565
+    }
+  },
+  {
+    "country_iso": "SYR",
+    "country_name": "Syrian Arab Rep.",
+    "applications_filed_raw": 46239,
+    "applications_filed_est": 46239,
+    "cases_decided": 40850,
+    "total_clearance_rate_pct": 88.35,
+    "pending_backlog_latest": 4144,
+    "recent_annual_decisions": 183,
+    "years_to_clear": 22.64,
+    "ghost_rate_pct": 60.72,
+    "refugee_grant_rate_pct": 47.03,
+    "total_protection_rate_pct": 48.07,
+    "court_stages": {
+      "AR": 1518,
+      "FI": 36528,
+      "JR": 2040,
+      "RA": 764
+    },
+    "authority_split": {
+      "UNHCR": 40850
+    }
+  },
+  {
+    "country_iso": "THA",
+    "country_name": "Thailand",
+    "applications_filed_raw": 45099,
+    "applications_filed_est": 45099,
+    "cases_decided": 40863,
+    "total_clearance_rate_pct": 90.61,
+    "pending_backlog_latest": 2880,
+    "recent_annual_decisions": 900,
+    "years_to_clear": 3.2,
+    "ghost_rate_pct": 41.74,
+    "refugee_grant_rate_pct": 58.74,
+    "total_protection_rate_pct": 58.74,
+    "court_stages": {
+      "AR": 5084,
+      "FA": 9590,
+      "FI": 25218,
+      "RA": 971
+    },
+    "authority_split": {
+      "Government": 12146,
+      "UNHCR": 28717
+    }
+  },
+  {
+    "country_iso": "SVN",
+    "country_name": "Slovenia",
+    "applications_filed_raw": 44041,
+    "applications_filed_est": 44041,
+    "cases_decided": 43510,
+    "total_clearance_rate_pct": 98.79,
+    "pending_backlog_latest": 722,
+    "recent_annual_decisions": 5157,
+    "years_to_clear": 0.14,
+    "ghost_rate_pct": 89.1,
+    "refugee_grant_rate_pct": 21.02,
+    "total_protection_rate_pct": 28.44,
+    "court_stages": {
+      "AR": 0,
+      "FA": 1564,
+      "FI": 41946,
+      "RA": 0
+    },
+    "authority_split": {
+      "Government": 43510
+    }
+  },
+  {
+    "country_iso": "IDN",
+    "country_name": "Indonesia",
+    "applications_filed_raw": 43759,
+    "applications_filed_est": 43759,
+    "cases_decided": 43746,
+    "total_clearance_rate_pct": 99.97,
+    "pending_backlog_latest": 4697,
+    "recent_annual_decisions": 229,
+    "years_to_clear": 20.51,
+    "ghost_rate_pct": 48.87,
+    "refugee_grant_rate_pct": 86.71,
+    "total_protection_rate_pct": 86.71,
+    "court_stages": {
+      "AR": 2055,
+      "FA": 10817,
+      "FI": 30859,
+      "RA": 15
+    },
+    "authority_split": {
+      "UNHCR": 43746
+    }
+  },
+  {
+    "country_iso": "PAN",
+    "country_name": "Panama",
+    "applications_filed_raw": 40540,
+    "applications_filed_est": 40540,
+    "cases_decided": 34298,
+    "total_clearance_rate_pct": 84.6,
+    "pending_backlog_latest": 4129,
+    "recent_annual_decisions": 2455,
+    "years_to_clear": 1.68,
+    "ghost_rate_pct": 81.63,
+    "refugee_grant_rate_pct": 17.88,
+    "total_protection_rate_pct": 17.88,
+    "court_stages": {
+      "AR": 503,
+      "FI": 33795
+    },
+    "authority_split": {
+      "Government": 34298
+    }
+  },
+  {
+    "country_iso": "GHA",
+    "country_name": "Ghana",
+    "applications_filed_raw": 38702,
+    "applications_filed_est": 38702,
+    "cases_decided": 38828,
+    "total_clearance_rate_pct": 100.33,
+    "pending_backlog_latest": 475,
+    "recent_annual_decisions": 5335,
+    "years_to_clear": 0.09,
+    "ghost_rate_pct": 64.5,
+    "refugee_grant_rate_pct": 92.27,
+    "total_protection_rate_pct": 98.95,
+    "court_stages": {
+      "FA": 8244,
+      "FI": 30584,
+      "RA": 0
+    },
+    "authority_split": {
+      "Government": 30584,
+      "Joint": 8244
+    }
+  },
+  {
+    "country_iso": "SRB",
+    "country_name": "Serbia and Kosovo: S/RES/1244 (1999)",
+    "applications_filed_raw": 37969,
+    "applications_filed_est": 37969,
+    "cases_decided": 37977,
+    "total_clearance_rate_pct": 100.02,
+    "pending_backlog_latest": 134,
+    "recent_annual_decisions": 387,
+    "years_to_clear": 0.35,
+    "ghost_rate_pct": 95.79,
+    "refugee_grant_rate_pct": 20.75,
+    "total_protection_rate_pct": 32.56,
+    "court_stages": {
+      "AR": 447,
+      "FI": 37520,
+      "JR": 10
+    },
+    "authority_split": {
+      "Government": 37977
+    }
+  },
+  {
+    "country_iso": "MOZ",
+    "country_name": "Mozambique",
+    "applications_filed_raw": 36446,
+    "applications_filed_est": 36446,
+    "cases_decided": 21988,
+    "total_clearance_rate_pct": 60.33,
+    "pending_backlog_latest": 18972,
+    "recent_annual_decisions": 480,
+    "years_to_clear": 39.53,
+    "ghost_rate_pct": 92.97,
+    "refugee_grant_rate_pct": 91.84,
+    "total_protection_rate_pct": 91.84,
+    "court_stages": {
+      "AR": 718,
+      "FI": 21188,
+      "JR": 82
+    },
+    "authority_split": {
+      "Government": 21988
+    }
+  },
+  {
+    "country_iso": "DZA",
+    "country_name": "Algeria",
+    "applications_filed_raw": 35822,
+    "applications_filed_est": 35822,
+    "cases_decided": 31805,
+    "total_clearance_rate_pct": 88.79,
+    "pending_backlog_latest": 3690,
+    "recent_annual_decisions": 2003,
+    "years_to_clear": 1.84,
+    "ghost_rate_pct": 69.45,
+    "refugee_grant_rate_pct": 18.87,
+    "total_protection_rate_pct": 18.87,
+    "court_stages": {
+      "AR": 2811,
+      "FI": 28633,
+      "RA": 361
+    },
+    "authority_split": {
+      "UNHCR": 31805
+    }
+  },
+  {
+    "country_iso": "SOM",
+    "country_name": "Somalia",
+    "applications_filed_raw": 34551,
+    "applications_filed_est": 34551,
+    "cases_decided": 33518,
+    "total_clearance_rate_pct": 97.01,
+    "pending_backlog_latest": 25702,
+    "recent_annual_decisions": 154,
+    "years_to_clear": 166.9,
+    "ghost_rate_pct": 83.66,
+    "refugee_grant_rate_pct": 62.65,
+    "total_protection_rate_pct": 62.65,
+    "court_stages": {
+      "AR": 60,
+      "FI": 33458
+    },
+    "authority_split": {
+      "UNHCR": 33518
+    }
+  },
+  {
+    "country_iso": "TCD",
+    "country_name": "Chad",
+    "applications_filed_raw": 33969,
+    "applications_filed_est": 33969,
+    "cases_decided": 24289,
+    "total_clearance_rate_pct": 71.5,
+    "pending_backlog_latest": 9371,
+    "recent_annual_decisions": 3100,
+    "years_to_clear": 3.02,
+    "ghost_rate_pct": 20.05,
+    "refugee_grant_rate_pct": 98.77,
+    "total_protection_rate_pct": 99.65,
+    "court_stages": {
+      "FA": 18388,
+      "FI": 5901
+    },
+    "authority_split": {
+      "Government": 18388,
+      "Joint": 5901
+    }
+  },
+  {
+    "country_iso": "LUX",
+    "country_name": "Luxembourg",
+    "applications_filed_raw": 33272,
+    "applications_filed_est": 33272,
+    "cases_decided": 28375,
+    "total_clearance_rate_pct": 85.28,
+    "pending_backlog_latest": 3050,
+    "recent_annual_decisions": 2597,
+    "years_to_clear": 1.17,
+    "ghost_rate_pct": 21.76,
+    "refugee_grant_rate_pct": 36.47,
+    "total_protection_rate_pct": 43.06,
+    "court_stages": {
+      "AR": 3111,
+      "FI": 23579,
+      "JR": 1239,
+      "RA": 446
+    },
+    "authority_split": {
+      "Government": 28375
+    }
+  },
+  {
+    "country_iso": "COG",
+    "country_name": "Congo",
+    "applications_filed_raw": 32868,
+    "applications_filed_est": 32868,
+    "cases_decided": 29663,
+    "total_clearance_rate_pct": 90.25,
+    "pending_backlog_latest": 8109,
+    "recent_annual_decisions": 144,
+    "years_to_clear": 56.31,
+    "ghost_rate_pct": 80.44,
+    "refugee_grant_rate_pct": 73.66,
+    "total_protection_rate_pct": 74.44,
+    "court_stages": {
+      "AR": 14918,
+      "FA": 6498,
+      "FI": 8247
+    },
+    "authority_split": {
+      "Government": 28668,
+      "Joint": 995
+    }
+  },
+  {
+    "country_iso": "CHL",
+    "country_name": "Chile",
+    "applications_filed_raw": 32219,
+    "applications_filed_est": 32219,
+    "cases_decided": 19803,
+    "total_clearance_rate_pct": 61.46,
+    "pending_backlog_latest": 9561,
+    "recent_annual_decisions": 2037,
+    "years_to_clear": 4.69,
+    "ghost_rate_pct": 54.33,
+    "refugee_grant_rate_pct": 11.9,
+    "total_protection_rate_pct": 12.93,
+    "court_stages": {
+      "AR": 63,
+      "FI": 19740
+    },
+    "authority_split": {
+      "Government": 19803
+    }
+  },
+  {
+    "country_iso": "MRT",
+    "country_name": "Mauritania",
+    "applications_filed_raw": 32074,
+    "applications_filed_est": 32074,
+    "cases_decided": 24830,
+    "total_clearance_rate_pct": 77.41,
+    "pending_backlog_latest": 7378,
+    "recent_annual_decisions": 2606,
+    "years_to_clear": 2.83,
+    "ghost_rate_pct": 29.98,
+    "refugee_grant_rate_pct": 84.31,
+    "total_protection_rate_pct": 84.39,
+    "court_stages": {
+      "AR": 714,
+      "FA": 2350,
+      "FI": 21766
+    },
+    "authority_split": {
+      "Joint": 156,
+      "UNHCR": 24674
+    }
+  },
+  {
+    "country_iso": "TTO",
+    "country_name": "Trinidad and Tobago",
+    "applications_filed_raw": 29307,
+    "applications_filed_est": 29307,
+    "cases_decided": 6729,
+    "total_clearance_rate_pct": 22.96,
+    "pending_backlog_latest": 23369,
+    "recent_annual_decisions": 262,
+    "years_to_clear": 89.19,
+    "ghost_rate_pct": 24.77,
+    "refugee_grant_rate_pct": 96.48,
+    "total_protection_rate_pct": 96.58,
+    "court_stages": {
+      "AR": 45,
+      "FI": 6684
+    },
+    "authority_split": {
+      "UNHCR": 6729
+    }
+  },
+  {
+    "country_iso": "BEN",
+    "country_name": "Benin",
+    "applications_filed_raw": 28951,
+    "applications_filed_est": 28951,
+    "cases_decided": 17135,
+    "total_clearance_rate_pct": 59.19,
+    "pending_backlog_latest": 11947,
+    "recent_annual_decisions": 6775,
+    "years_to_clear": 1.76,
+    "ghost_rate_pct": 1.71,
+    "refugee_grant_rate_pct": 98.25,
+    "total_protection_rate_pct": 98.25,
+    "court_stages": {
+      "AR": 108,
+      "FI": 17027
+    },
+    "authority_split": {
+      "Government": 17135
+    }
+  },
+  {
+    "country_iso": "MLT",
+    "country_name": "Malta",
+    "applications_filed_raw": 28511,
+    "applications_filed_est": 28511,
+    "cases_decided": 30268,
+    "total_clearance_rate_pct": 106.16,
+    "pending_backlog_latest": 1390,
+    "recent_annual_decisions": 702,
+    "years_to_clear": 1.98,
+    "ghost_rate_pct": 37.59,
+    "refugee_grant_rate_pct": 24.3,
+    "total_protection_rate_pct": 62.72,
+    "court_stages": {
+      "AR": 3602,
+      "FI": 26666
+    },
+    "authority_split": {
+      "Government": 30268
+    }
+  },
+  {
+    "country_iso": "ARG",
+    "country_name": "Argentina",
+    "applications_filed_raw": 28462,
+    "applications_filed_est": 28462,
+    "cases_decided": 27291,
+    "total_clearance_rate_pct": 95.89,
+    "pending_backlog_latest": 3941,
+    "recent_annual_decisions": 3380,
+    "years_to_clear": 1.17,
+    "ghost_rate_pct": 52.8,
+    "refugee_grant_rate_pct": 22.03,
+    "total_protection_rate_pct": 22.25,
+    "court_stages": {
+      "AR": 4711,
+      "FI": 22402,
+      "JR": 178
+    },
+    "authority_split": {
+      "Government": 27291
+    }
+  },
+  {
+    "country_iso": "TUN",
+    "country_name": "Tunisia",
+    "applications_filed_raw": 27650,
+    "applications_filed_est": 27650,
+    "cases_decided": 21913,
+    "total_clearance_rate_pct": 79.25,
+    "pending_backlog_latest": 5523,
+    "recent_annual_decisions": 5539,
+    "years_to_clear": 1.0,
+    "ghost_rate_pct": 66.74,
+    "refugee_grant_rate_pct": 78.39,
+    "total_protection_rate_pct": 78.39,
+    "court_stages": {
+      "AR": 791,
+      "FA": 4029,
+      "FI": 17093
+    },
+    "authority_split": {
+      "UNHCR": 21913
+    }
+  },
+  {
+    "country_iso": "DJI",
+    "country_name": "Djibouti",
+    "applications_filed_raw": 26935,
+    "applications_filed_est": 26935,
+    "cases_decided": 17722,
+    "total_clearance_rate_pct": 65.8,
+    "pending_backlog_latest": 10141,
+    "recent_annual_decisions": 380,
+    "years_to_clear": 26.69,
+    "ghost_rate_pct": 32.39,
+    "refugee_grant_rate_pct": 99.96,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FI": 17722
+    },
+    "authority_split": {
+      "Government": 16062,
+      "Joint": 1450,
+      "UNHCR": 210
+    }
+  },
+  {
+    "country_iso": "MDA",
+    "country_name": "Rep. of Moldova",
+    "applications_filed_raw": 26144,
+    "applications_filed_est": 26144,
+    "cases_decided": 25556,
+    "total_clearance_rate_pct": 97.75,
+    "pending_backlog_latest": 594,
+    "recent_annual_decisions": 5524,
+    "years_to_clear": 0.11,
+    "ghost_rate_pct": 89.97,
+    "refugee_grant_rate_pct": 10.92,
+    "total_protection_rate_pct": 43.88,
+    "court_stages": {
+      "FA": 168,
+      "FI": 24976,
+      "JR": 412
+    },
+    "authority_split": {
+      "Government": 25556
+    }
+  },
+  {
+    "country_iso": "CZE",
+    "country_name": "Czechia",
+    "applications_filed_raw": 25885,
+    "applications_filed_est": 25885,
+    "cases_decided": 23952,
+    "total_clearance_rate_pct": 92.53,
+    "pending_backlog_latest": 993,
+    "recent_annual_decisions": 1690,
+    "years_to_clear": 0.59,
+    "ghost_rate_pct": 37.96,
+    "refugee_grant_rate_pct": 9.61,
+    "total_protection_rate_pct": 31.06,
+    "court_stages": {
+      "AR": 529,
+      "FI": 21194,
+      "JR": 2229,
+      "RA": 0
+    },
+    "authority_split": {
+      "Government": 23952
+    }
+  },
+  {
+    "country_iso": "ISL",
+    "country_name": "Iceland",
+    "applications_filed_raw": 25004,
+    "applications_filed_est": 25004,
+    "cases_decided": 21085,
+    "total_clearance_rate_pct": 84.33,
+    "pending_backlog_latest": 660,
+    "recent_annual_decisions": 3045,
+    "years_to_clear": 0.22,
+    "ghost_rate_pct": 40.22,
+    "refugee_grant_rate_pct": 10.7,
+    "total_protection_rate_pct": 43.48,
+    "court_stages": {
+      "AR": 5828,
+      "FI": 15257
+    },
+    "authority_split": {
+      "Government": 21085
+    }
+  },
+  {
+    "country_iso": "TJK",
+    "country_name": "Tajikistan",
+    "applications_filed_raw": 24319,
+    "applications_filed_est": 24319,
+    "cases_decided": 22490,
+    "total_clearance_rate_pct": 92.48,
+    "pending_backlog_latest": 3238,
+    "recent_annual_decisions": 2669,
+    "years_to_clear": 1.21,
+    "ghost_rate_pct": 13.56,
+    "refugee_grant_rate_pct": 91.28,
+    "total_protection_rate_pct": 91.28,
+    "court_stages": {
+      "AR": 132,
+      "FA": 13563,
+      "FI": 8795
+    },
+    "authority_split": {
+      "Government": 19413,
+      "UNHCR": 3077
+    }
+  },
+  {
+    "country_iso": "VEN",
+    "country_name": "Venezuela (Bolivarian Republic of)",
+    "applications_filed_raw": 22714,
+    "applications_filed_est": 22714,
+    "cases_decided": 35875,
+    "total_clearance_rate_pct": 157.94,
+    "pending_backlog_latest": 1577,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 21.29,
+    "refugee_grant_rate_pct": 25.45,
+    "total_protection_rate_pct": 25.45,
+    "court_stages": {
+      "FI": 35875
+    },
+    "authority_split": {
+      "Government": 35875
+    }
+  },
+  {
+    "country_iso": "UKR",
+    "country_name": "Ukraine",
+    "applications_filed_raw": 22463,
+    "applications_filed_est": 22463,
+    "cases_decided": 24110,
+    "total_clearance_rate_pct": 107.33,
+    "pending_backlog_latest": 443,
+    "recent_annual_decisions": 232,
+    "years_to_clear": 1.91,
+    "ghost_rate_pct": 54.61,
+    "refugee_grant_rate_pct": 16.79,
+    "total_protection_rate_pct": 27.91,
+    "court_stages": {
+      "AR": 1199,
+      "FA": 1119,
+      "FI": 14568,
+      "JR": 7224
+    },
+    "authority_split": {
+      "Government": 23076,
+      "UNHCR": 1034
+    }
+  },
+  {
+    "country_iso": "HRV",
+    "country_name": "Croatia",
+    "applications_filed_raw": 21968,
+    "applications_filed_est": 21968,
+    "cases_decided": 20886,
+    "total_clearance_rate_pct": 95.07,
+    "pending_backlog_latest": 434,
+    "recent_annual_decisions": 1688,
+    "years_to_clear": 0.26,
+    "ghost_rate_pct": 78.59,
+    "refugee_grant_rate_pct": 22.05,
+    "total_protection_rate_pct": 24.49,
+    "court_stages": {
+      "AR": 100,
+      "FI": 19685,
+      "JR": 1101
+    },
+    "authority_split": {
+      "Government": 20886
+    }
+  },
+  {
+    "country_iso": "PRT",
+    "country_name": "Portugal",
+    "applications_filed_raw": 20612,
+    "applications_filed_est": 20612,
+    "cases_decided": 15222,
+    "total_clearance_rate_pct": 73.85,
+    "pending_backlog_latest": 8595,
+    "recent_annual_decisions": 2058,
+    "years_to_clear": 4.18,
+    "ghost_rate_pct": 51.86,
+    "refugee_grant_rate_pct": 23.92,
+    "total_protection_rate_pct": 54.7,
+    "court_stages": {
+      "AR": 395,
+      "FI": 14827,
+      "RA": 0
+    },
+    "authority_split": {
+      "Government": 15222
+    }
+  },
+  {
+    "country_iso": "IRQ",
+    "country_name": "Iraq",
+    "applications_filed_raw": 18404,
+    "applications_filed_est": 18404,
+    "cases_decided": 9761,
+    "total_clearance_rate_pct": 53.04,
+    "pending_backlog_latest": 23366,
+    "recent_annual_decisions": 442,
+    "years_to_clear": 52.86,
+    "ghost_rate_pct": 81.51,
+    "refugee_grant_rate_pct": 60.5,
+    "total_protection_rate_pct": 84.38,
+    "court_stages": {
+      "AR": 31,
+      "FI": 9730
+    },
+    "authority_split": {
+      "UNHCR": 9761
+    }
+  },
+  {
+    "country_iso": "SSD",
+    "country_name": "South Sudan",
+    "applications_filed_raw": 17667,
+    "applications_filed_est": 17667,
+    "cases_decided": 14454,
+    "total_clearance_rate_pct": 81.81,
+    "pending_backlog_latest": 3246,
+    "recent_annual_decisions": 3740,
+    "years_to_clear": 0.87,
+    "ghost_rate_pct": 48.06,
+    "refugee_grant_rate_pct": 72.14,
+    "total_protection_rate_pct": 91.66,
+    "court_stages": {
+      "FI": 14454
+    },
+    "authority_split": {
+      "Government": 13054,
+      "UNHCR": 1400
+    }
+  },
+  {
+    "country_iso": "ZWE",
+    "country_name": "Zimbabwe",
+    "applications_filed_raw": 17406,
+    "applications_filed_est": 17406,
+    "cases_decided": 15333,
+    "total_clearance_rate_pct": 88.09,
+    "pending_backlog_latest": 9495,
+    "recent_annual_decisions": 2394,
+    "years_to_clear": 3.97,
+    "ghost_rate_pct": 52.79,
+    "refugee_grant_rate_pct": 60.46,
+    "total_protection_rate_pct": 77.19,
+    "court_stages": {
+      "FI": 15333
+    },
+    "authority_split": {
+      "Government": 15333
+    }
+  },
+  {
+    "country_iso": "MNE",
+    "country_name": "Montenegro",
+    "applications_filed_raw": 16737,
+    "applications_filed_est": 16737,
+    "cases_decided": 16533,
+    "total_clearance_rate_pct": 98.78,
+    "pending_backlog_latest": 175,
+    "recent_annual_decisions": 120,
+    "years_to_clear": 1.46,
+    "ghost_rate_pct": 88.33,
+    "refugee_grant_rate_pct": 5.91,
+    "total_protection_rate_pct": 7.46,
+    "court_stages": {
+      "FA": 16533
+    },
+    "authority_split": {
+      "Government": 16533
+    }
+  },
+  {
+    "country_iso": "BLR",
+    "country_name": "Belarus",
+    "applications_filed_raw": 15794,
+    "applications_filed_est": 15794,
+    "cases_decided": 14443,
+    "total_clearance_rate_pct": 91.45,
+    "pending_backlog_latest": 1470,
+    "recent_annual_decisions": 1759,
+    "years_to_clear": 0.84,
+    "ghost_rate_pct": 15.81,
+    "refugee_grant_rate_pct": 1.68,
+    "total_protection_rate_pct": 85.5,
+    "court_stages": {
+      "AR": 142,
+      "FI": 13807,
+      "JR": 494
+    },
+    "authority_split": {
+      "Government": 14403,
+      "UNHCR": 40
+    }
+  },
+  {
+    "country_iso": "BFA",
+    "country_name": "Burkina Faso",
+    "applications_filed_raw": 15502,
+    "applications_filed_est": 15502,
+    "cases_decided": 14063,
+    "total_clearance_rate_pct": 90.72,
+    "pending_backlog_latest": 1957,
+    "recent_annual_decisions": 499,
+    "years_to_clear": 3.92,
+    "ghost_rate_pct": 92.08,
+    "refugee_grant_rate_pct": 98.03,
+    "total_protection_rate_pct": 98.92,
+    "court_stages": {
+      "FI": 14063
+    },
+    "authority_split": {
+      "Government": 13696,
+      "Joint": 367
+    }
+  },
+  {
+    "country_iso": "GEO",
+    "country_name": "Georgia",
+    "applications_filed_raw": 15221,
+    "applications_filed_est": 15221,
+    "cases_decided": 14965,
+    "total_clearance_rate_pct": 98.32,
+    "pending_backlog_latest": 288,
+    "recent_annual_decisions": 1497,
+    "years_to_clear": 0.19,
+    "ghost_rate_pct": 36.47,
+    "refugee_grant_rate_pct": 5.22,
+    "total_protection_rate_pct": 28.99,
+    "court_stages": {
+      "FA": 1119,
+      "FI": 13732,
+      "JR": 114
+    },
+    "authority_split": {
+      "Government": 14965
+    }
+  },
+  {
+    "country_iso": "MLI",
+    "country_name": "Mali",
+    "applications_filed_raw": 14586,
+    "applications_filed_est": 14586,
+    "cases_decided": 15976,
+    "total_clearance_rate_pct": 109.53,
+    "pending_backlog_latest": 322,
+    "recent_annual_decisions": 51,
+    "years_to_clear": 6.31,
+    "ghost_rate_pct": 23.54,
+    "refugee_grant_rate_pct": 99.7,
+    "total_protection_rate_pct": 99.7,
+    "court_stages": {
+      "FI": 15976
+    },
+    "authority_split": {
+      "Government": 15976
+    }
+  },
+  {
+    "country_iso": "AGO",
+    "country_name": "Angola",
+    "applications_filed_raw": 14319,
+    "applications_filed_est": 14319,
+    "cases_decided": 5381,
+    "total_clearance_rate_pct": 37.58,
+    "pending_backlog_latest": 30261,
+    "recent_annual_decisions": 3,
+    "years_to_clear": 10087.0,
+    "ghost_rate_pct": 66.2,
+    "refugee_grant_rate_pct": 73.01,
+    "total_protection_rate_pct": 73.01,
+    "court_stages": {
+      "FA": 1621,
+      "FI": 3760
+    },
+    "authority_split": {
+      "Government": 5381
+    }
+  },
+  {
+    "country_iso": "NZL",
+    "country_name": "New Zealand",
+    "applications_filed_raw": 14112,
+    "applications_filed_est": 14112,
+    "cases_decided": 9799,
+    "total_clearance_rate_pct": 69.44,
+    "pending_backlog_latest": 4584,
+    "recent_annual_decisions": 1317,
+    "years_to_clear": 3.48,
+    "ghost_rate_pct": 10.11,
+    "refugee_grant_rate_pct": 31.55,
+    "total_protection_rate_pct": 33.2,
+    "court_stages": {
+      "AR": 2740,
+      "FI": 7059
+    },
+    "authority_split": {
+      "Government": 9799
+    }
+  },
+  {
+    "country_iso": "ARE",
+    "country_name": "United Arab Emirates",
+    "applications_filed_raw": 13692,
+    "applications_filed_est": 13692,
+    "cases_decided": 6762,
+    "total_clearance_rate_pct": 49.39,
+    "pending_backlog_latest": 6257,
+    "recent_annual_decisions": 51,
+    "years_to_clear": 122.69,
+    "ghost_rate_pct": 55.63,
+    "refugee_grant_rate_pct": 97.37,
+    "total_protection_rate_pct": 97.97,
+    "court_stages": {
+      "AR": 373,
+      "FA": 1272,
+      "FI": 4792
+    },
+    "authority_split": {
+      "UNHCR": 6762
+    }
+  },
+  {
+    "country_iso": "LBR",
+    "country_name": "Liberia",
+    "applications_filed_raw": 11817,
+    "applications_filed_est": 11817,
+    "cases_decided": 11631,
+    "total_clearance_rate_pct": 98.43,
+    "pending_backlog_latest": 725,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 89.32,
+    "refugee_grant_rate_pct": 27.21,
+    "total_protection_rate_pct": 28.42,
+    "court_stages": {
+      "FA": 1118,
+      "FI": 10513
+    },
+    "authority_split": {
+      "Government": 10448,
+      "Joint": 1183
+    }
+  },
+  {
+    "country_iso": "EST",
+    "country_name": "Estonia",
+    "applications_filed_raw": 10299,
+    "applications_filed_est": 10299,
+    "cases_decided": 10120,
+    "total_clearance_rate_pct": 98.26,
+    "pending_backlog_latest": 321,
+    "recent_annual_decisions": 1223,
+    "years_to_clear": 0.26,
+    "ghost_rate_pct": 5.37,
+    "refugee_grant_rate_pct": 5.17,
+    "total_protection_rate_pct": 90.32,
+    "court_stages": {
+      "AR": 71,
+      "FI": 10049
+    },
+    "authority_split": {
+      "Government": 10120
+    }
+  },
+  {
+    "country_iso": "MKD",
+    "country_name": "North Macedonia",
+    "applications_filed_raw": 9205,
+    "applications_filed_est": 9205,
+    "cases_decided": 9204,
+    "total_clearance_rate_pct": 99.99,
+    "pending_backlog_latest": 38,
+    "recent_annual_decisions": 240,
+    "years_to_clear": 0.16,
+    "ghost_rate_pct": 97.5,
+    "refugee_grant_rate_pct": 4.78,
+    "total_protection_rate_pct": 17.83,
+    "court_stages": {
+      "FA": 9204
+    },
+    "authority_split": {
+      "Government": 9204
+    }
+  },
+  {
+    "country_iso": "PRY",
+    "country_name": "Paraguay",
+    "applications_filed_raw": 8782,
+    "applications_filed_est": 8782,
+    "cases_decided": 7307,
+    "total_clearance_rate_pct": 83.2,
+    "pending_backlog_latest": 1659,
+    "recent_annual_decisions": 588,
+    "years_to_clear": 2.82,
+    "ghost_rate_pct": 10.11,
+    "refugee_grant_rate_pct": 97.61,
+    "total_protection_rate_pct": 97.61,
+    "court_stages": {
+      "AR": 29,
+      "FI": 7278
+    },
+    "authority_split": {
+      "Government": 7244,
+      "UNHCR": 63
+    }
+  },
+  {
+    "country_iso": "GTM",
+    "country_name": "Guatemala",
+    "applications_filed_raw": 8351,
+    "applications_filed_est": 8351,
+    "cases_decided": 4302,
+    "total_clearance_rate_pct": 51.51,
+    "pending_backlog_latest": 4088,
+    "recent_annual_decisions": 595,
+    "years_to_clear": 6.87,
+    "ghost_rate_pct": 45.65,
+    "refugee_grant_rate_pct": 67.92,
+    "total_protection_rate_pct": 67.92,
+    "court_stages": {
+      "FA": 3180,
+      "FI": 1122
+    },
+    "authority_split": {
+      "Government": 4302
+    }
+  },
+  {
+    "country_iso": "NAM",
+    "country_name": "Namibia",
+    "applications_filed_raw": 8291,
+    "applications_filed_est": 8291,
+    "cases_decided": 8297,
+    "total_clearance_rate_pct": 100.07,
+    "pending_backlog_latest": 1326,
+    "recent_annual_decisions": 819,
+    "years_to_clear": 1.62,
+    "ghost_rate_pct": 38.33,
+    "refugee_grant_rate_pct": 75.3,
+    "total_protection_rate_pct": 75.3,
+    "court_stages": {
+      "FI": 8297
+    },
+    "authority_split": {
+      "Government": 8297
+    }
+  },
+  {
+    "country_iso": "ALB",
+    "country_name": "Albania",
+    "applications_filed_raw": 8289,
+    "applications_filed_est": 8289,
+    "cases_decided": 8279,
+    "total_clearance_rate_pct": 99.88,
+    "pending_backlog_latest": 11,
+    "recent_annual_decisions": 19,
+    "years_to_clear": 0.58,
+    "ghost_rate_pct": 97.04,
+    "refugee_grant_rate_pct": 72.24,
+    "total_protection_rate_pct": 93.88,
+    "court_stages": {
+      "FA": 20,
+      "FI": 8259
+    },
+    "authority_split": {
+      "Government": 8279
+    }
+  },
+  {
+    "country_iso": "LVA",
+    "country_name": "Latvia",
+    "applications_filed_raw": 8138,
+    "applications_filed_est": 8138,
+    "cases_decided": 7681,
+    "total_clearance_rate_pct": 94.38,
+    "pending_backlog_latest": 487,
+    "recent_annual_decisions": 1485,
+    "years_to_clear": 0.33,
+    "ghost_rate_pct": 54.55,
+    "refugee_grant_rate_pct": 19.97,
+    "total_protection_rate_pct": 40.5,
+    "court_stages": {
+      "AR": 571,
+      "FI": 7110
+    },
+    "authority_split": {
+      "Government": 7681
+    }
+  },
+  {
+    "country_iso": "KGZ",
+    "country_name": "Kyrgyzstan",
+    "applications_filed_raw": 7790,
+    "applications_filed_est": 7790,
+    "cases_decided": 6422,
+    "total_clearance_rate_pct": 82.44,
+    "pending_backlog_latest": 1981,
+    "recent_annual_decisions": 1246,
+    "years_to_clear": 1.59,
+    "ghost_rate_pct": 58.18,
+    "refugee_grant_rate_pct": 29.23,
+    "total_protection_rate_pct": 29.41,
+    "court_stages": {
+      "AR": 180,
+      "FA": 797,
+      "FI": 5445
+    },
+    "authority_split": {
+      "Government": 5294,
+      "UNHCR": 1128
+    }
+  },
+  {
+    "country_iso": "LTU",
+    "country_name": "Lithuania",
+    "applications_filed_raw": 7102,
+    "applications_filed_est": 7102,
+    "cases_decided": 8728,
+    "total_clearance_rate_pct": 122.89,
+    "pending_backlog_latest": 156,
+    "recent_annual_decisions": 523,
+    "years_to_clear": 0.3,
+    "ghost_rate_pct": 38.03,
+    "refugee_grant_rate_pct": 36.25,
+    "total_protection_rate_pct": 42.02,
+    "court_stages": {
+      "FI": 8728
+    },
+    "authority_split": {
+      "Government": 8728
+    }
+  },
+  {
+    "country_iso": "GIN",
+    "country_name": "Guinea",
+    "applications_filed_raw": 7005,
+    "applications_filed_est": 7005,
+    "cases_decided": 7773,
+    "total_clearance_rate_pct": 110.96,
+    "pending_backlog_latest": 172,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 43.48,
+    "refugee_grant_rate_pct": 74.46,
+    "total_protection_rate_pct": 75.51,
+    "court_stages": {
+      "FA": 1532,
+      "FI": 6241
+    },
+    "authority_split": {
+      "Government": 7773
+    }
+  },
+  {
+    "country_iso": "ARM",
+    "country_name": "Armenia",
+    "applications_filed_raw": 6435,
+    "applications_filed_est": 6435,
+    "cases_decided": 5457,
+    "total_clearance_rate_pct": 84.8,
+    "pending_backlog_latest": 998,
+    "recent_annual_decisions": 640,
+    "years_to_clear": 1.56,
+    "ghost_rate_pct": 30.38,
+    "refugee_grant_rate_pct": 70.99,
+    "total_protection_rate_pct": 71.39,
+    "court_stages": {
+      "AR": 118,
+      "FI": 5196,
+      "JR": 133,
+      "RA": 10
+    },
+    "authority_split": {
+      "Government": 5447,
+      "UNHCR": 10
+    }
+  },
+  {
+    "country_iso": "AZE",
+    "country_name": "Azerbaijan",
+    "applications_filed_raw": 6319,
+    "applications_filed_est": 6319,
+    "cases_decided": 6157,
+    "total_clearance_rate_pct": 97.44,
+    "pending_backlog_latest": 199,
+    "recent_annual_decisions": 159,
+    "years_to_clear": 1.25,
+    "ghost_rate_pct": 13.87,
+    "refugee_grant_rate_pct": 28.76,
+    "total_protection_rate_pct": 29.06,
+    "court_stages": {
+      "AR": 128,
+      "FI": 5932,
+      "JR": 97
+    },
+    "authority_split": {
+      "Government": 3757,
+      "UNHCR": 2400
+    }
+  },
+  {
+    "country_iso": "SWZ",
+    "country_name": "Eswatini",
+    "applications_filed_raw": 5902,
+    "applications_filed_est": 5902,
+    "cases_decided": 2733,
+    "total_clearance_rate_pct": 46.31,
+    "pending_backlog_latest": 3511,
+    "recent_annual_decisions": 537,
+    "years_to_clear": 6.54,
+    "ghost_rate_pct": 71.57,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FI": 2733
+    },
+    "authority_split": {
+      "Government": 2733
+    }
+  },
+  {
+    "country_iso": "HKG",
+    "country_name": "China, Hong Kong SAR",
+    "applications_filed_raw": 5539,
+    "applications_filed_est": 5539,
+    "cases_decided": 4009,
+    "total_clearance_rate_pct": 72.38,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 45.97,
+    "refugee_grant_rate_pct": 12.74,
+    "total_protection_rate_pct": 13.2,
+    "court_stages": {
+      "AR": 882,
+      "FI": 2964,
+      "RA": 163
+    },
+    "authority_split": {
+      "UNHCR": 4009
+    }
+  },
+  {
+    "country_iso": "LKA",
+    "country_name": "Sri Lanka",
+    "applications_filed_raw": 5505,
+    "applications_filed_est": 5505,
+    "cases_decided": 5547,
+    "total_clearance_rate_pct": 100.76,
+    "pending_backlog_latest": 271,
+    "recent_annual_decisions": 15,
+    "years_to_clear": 18.07,
+    "ghost_rate_pct": 24.36,
+    "refugee_grant_rate_pct": 74.64,
+    "total_protection_rate_pct": 74.64,
+    "court_stages": {
+      "AR": 584,
+      "FA": 536,
+      "FI": 4427
+    },
+    "authority_split": {
+      "UNHCR": 5547
+    }
+  },
+  {
+    "country_iso": "CHN",
+    "country_name": "China",
+    "applications_filed_raw": 5490,
+    "applications_filed_est": 5490,
+    "cases_decided": 5032,
+    "total_clearance_rate_pct": 91.66,
+    "pending_backlog_latest": 482,
+    "recent_annual_decisions": 211,
+    "years_to_clear": 2.28,
+    "ghost_rate_pct": 48.03,
+    "refugee_grant_rate_pct": 28.18,
+    "total_protection_rate_pct": 28.76,
+    "court_stages": {
+      "AR": 1013,
+      "FA": 422,
+      "FI": 3597,
+      "RA": 0
+    },
+    "authority_split": {
+      "UNHCR": 5032
+    }
+  },
+  {
+    "country_iso": "SVK",
+    "country_name": "Slovakia",
+    "applications_filed_raw": 5316,
+    "applications_filed_est": 5316,
+    "cases_decided": 5757,
+    "total_clearance_rate_pct": 108.3,
+    "pending_backlog_latest": 16,
+    "recent_annual_decisions": 151,
+    "years_to_clear": 0.11,
+    "ghost_rate_pct": 57.08,
+    "refugee_grant_rate_pct": 18.49,
+    "total_protection_rate_pct": 47.23,
+    "court_stages": {
+      "AR": 10,
+      "FA": 335,
+      "FI": 5412,
+      "RA": 0
+    },
+    "authority_split": {
+      "Government": 5757
+    }
+  },
+  {
+    "country_iso": "BLZ",
+    "country_name": "Belize",
+    "applications_filed_raw": 5253,
+    "applications_filed_est": 5253,
+    "cases_decided": 3270,
+    "total_clearance_rate_pct": 62.25,
+    "pending_backlog_latest": 1836,
+    "recent_annual_decisions": 306,
+    "years_to_clear": 6.0,
+    "ghost_rate_pct": 69.39,
+    "refugee_grant_rate_pct": 38.46,
+    "total_protection_rate_pct": 44.06,
+    "court_stages": {
+      "AR": 62,
+      "FA": 15,
+      "FI": 3193
+    },
+    "authority_split": {
+      "Government": 3153,
+      "Joint": 117
+    }
+  },
+  {
+    "country_iso": "KAZ",
+    "country_name": "Kazakhstan",
+    "applications_filed_raw": 4971,
+    "applications_filed_est": 4971,
+    "cases_decided": 5263,
+    "total_clearance_rate_pct": 105.87,
+    "pending_backlog_latest": 163,
+    "recent_annual_decisions": 423,
+    "years_to_clear": 0.39,
+    "ghost_rate_pct": 34.94,
+    "refugee_grant_rate_pct": 23.31,
+    "total_protection_rate_pct": 23.45,
+    "court_stages": {
+      "AR": 770,
+      "FA": 343,
+      "FI": 3897,
+      "JR": 253
+    },
+    "authority_split": {
+      "Government": 4514,
+      "Joint": 343,
+      "UNHCR": 406
+    }
+  },
+  {
+    "country_iso": "PNG",
+    "country_name": "Papua New Guinea",
+    "applications_filed_raw": 4631,
+    "applications_filed_est": 4631,
+    "cases_decided": 1494,
+    "total_clearance_rate_pct": 32.26,
+    "pending_backlog_latest": 3121,
+    "recent_annual_decisions": 95,
+    "years_to_clear": 32.85,
+    "ghost_rate_pct": 46.32,
+    "refugee_grant_rate_pct": 65.71,
+    "total_protection_rate_pct": 65.71,
+    "court_stages": {
+      "AR": 58,
+      "FA": 10,
+      "FI": 1426
+    },
+    "authority_split": {
+      "Government": 1479,
+      "Joint": 10,
+      "UNHCR": 5
+    }
+  },
+  {
+    "country_iso": "SUR",
+    "country_name": "Suriname",
+    "applications_filed_raw": 4532,
+    "applications_filed_est": 4532,
+    "cases_decided": 1393,
+    "total_clearance_rate_pct": 30.74,
+    "pending_backlog_latest": 3191,
+    "recent_annual_decisions": 47,
+    "years_to_clear": 67.89,
+    "ghost_rate_pct": 89.66,
+    "refugee_grant_rate_pct": 51.39,
+    "total_protection_rate_pct": 51.39,
+    "court_stages": {
+      "FI": 1393
+    },
+    "authority_split": {
+      "UNHCR": 1393
+    }
+  },
+  {
+    "country_iso": "SEN",
+    "country_name": "Senegal",
+    "applications_filed_raw": 4425,
+    "applications_filed_est": 4425,
+    "cases_decided": 5655,
+    "total_clearance_rate_pct": 127.8,
+    "pending_backlog_latest": 1538,
+    "recent_annual_decisions": 20,
+    "years_to_clear": 76.9,
+    "ghost_rate_pct": 78.82,
+    "refugee_grant_rate_pct": 53.84,
+    "total_protection_rate_pct": 68.61,
+    "court_stages": {
+      "FA": 4573,
+      "FI": 1082
+    },
+    "authority_split": {
+      "Government": 4870,
+      "UNHCR": 785
+    }
+  },
+  {
+    "country_iso": "DOM",
+    "country_name": "Dominican Rep.",
+    "applications_filed_raw": 4392,
+    "applications_filed_est": 4392,
+    "cases_decided": 3076,
+    "total_clearance_rate_pct": 70.04,
+    "pending_backlog_latest": 1029,
+    "recent_annual_decisions": 5,
+    "years_to_clear": 205.8,
+    "ghost_rate_pct": 56.11,
+    "refugee_grant_rate_pct": 68.81,
+    "total_protection_rate_pct": 68.81,
+    "court_stages": {
+      "AR": 27,
+      "FI": 3049
+    },
+    "authority_split": {
+      "Government": 1530,
+      "UNHCR": 1546
+    }
+  },
+  {
+    "country_iso": "BIH",
+    "country_name": "Bosnia and Herzegovina",
+    "applications_filed_raw": 4300,
+    "applications_filed_est": 4300,
+    "cases_decided": 4521,
+    "total_clearance_rate_pct": 105.14,
+    "pending_backlog_latest": 164,
+    "recent_annual_decisions": 171,
+    "years_to_clear": 0.96,
+    "ghost_rate_pct": 74.05,
+    "refugee_grant_rate_pct": 1.71,
+    "total_protection_rate_pct": 40.66,
+    "court_stages": {
+      "FA": 446,
+      "FI": 3885,
+      "JR": 190
+    },
+    "authority_split": {
+      "Government": 4521
+    }
+  },
+  {
+    "country_iso": "SAU",
+    "country_name": "Saudi Arabia",
+    "applications_filed_raw": 3879,
+    "applications_filed_est": 3879,
+    "cases_decided": 1103,
+    "total_clearance_rate_pct": 28.44,
+    "pending_backlog_latest": 3907,
+    "recent_annual_decisions": 61,
+    "years_to_clear": 64.05,
+    "ghost_rate_pct": 22.85,
+    "refugee_grant_rate_pct": 99.41,
+    "total_protection_rate_pct": 99.41,
+    "court_stages": {
+      "FI": 1103
+    },
+    "authority_split": {
+      "UNHCR": 1103
+    }
+  },
+  {
+    "country_iso": "PHL",
+    "country_name": "Philippines",
+    "applications_filed_raw": 3290,
+    "applications_filed_est": 3290,
+    "cases_decided": 2388,
+    "total_clearance_rate_pct": 72.58,
+    "pending_backlog_latest": 942,
+    "recent_annual_decisions": 564,
+    "years_to_clear": 1.67,
+    "ghost_rate_pct": 58.63,
+    "refugee_grant_rate_pct": 88.56,
+    "total_protection_rate_pct": 89.07,
+    "court_stages": {
+      "FA": 832,
+      "FI": 1556
+    },
+    "authority_split": {
+      "Government": 1065,
+      "UNHCR": 1323
+    }
+  },
+  {
+    "country_iso": "KWT",
+    "country_name": "Kuwait",
+    "applications_filed_raw": 2610,
+    "applications_filed_est": 2610,
+    "cases_decided": 4708,
+    "total_clearance_rate_pct": 180.38,
+    "pending_backlog_latest": 611,
+    "recent_annual_decisions": 20,
+    "years_to_clear": 30.55,
+    "ghost_rate_pct": 71.47,
+    "refugee_grant_rate_pct": 93.97,
+    "total_protection_rate_pct": 93.97,
+    "court_stages": {
+      "FA": 545,
+      "FI": 4163
+    },
+    "authority_split": {
+      "UNHCR": 4708
+    }
+  },
+  {
+    "country_iso": "BWA",
+    "country_name": "Botswana",
+    "applications_filed_raw": 2347,
+    "applications_filed_est": 2347,
+    "cases_decided": 2547,
+    "total_clearance_rate_pct": 108.52,
+    "pending_backlog_latest": 21,
+    "recent_annual_decisions": 54,
+    "years_to_clear": 0.39,
+    "ghost_rate_pct": 17.51,
+    "refugee_grant_rate_pct": 33.13,
+    "total_protection_rate_pct": 33.37,
+    "court_stages": {
+      "FA": 251,
+      "FI": 2296
+    },
+    "authority_split": {
+      "Government": 1874,
+      "Joint": 139,
+      "UNHCR": 534
+    }
+  },
+  {
+    "country_iso": "NPL",
+    "country_name": "Nepal",
+    "applications_filed_raw": 2238,
+    "applications_filed_est": 2238,
+    "cases_decided": 3178,
+    "total_clearance_rate_pct": 142.0,
+    "pending_backlog_latest": 302,
+    "recent_annual_decisions": 47,
+    "years_to_clear": 6.43,
+    "ghost_rate_pct": 17.56,
+    "refugee_grant_rate_pct": 38.7,
+    "total_protection_rate_pct": 84.08,
+    "court_stages": {
+      "AR": 204,
+      "FI": 2974
+    },
+    "authority_split": {
+      "Government": 1714,
+      "UNHCR": 1464
+    }
+  },
+  {
+    "country_iso": "BOL",
+    "country_name": "Bolivia (Plurinational State of)",
+    "applications_filed_raw": 2134,
+    "applications_filed_est": 2134,
+    "cases_decided": 2257,
+    "total_clearance_rate_pct": 105.76,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 47,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 35.67,
+    "refugee_grant_rate_pct": 25.69,
+    "total_protection_rate_pct": 26.38,
+    "court_stages": {
+      "FI": 2257
+    },
+    "authority_split": {
+      "Government": 2257
+    }
+  },
+  {
+    "country_iso": "NRU",
+    "country_name": "Nauru",
+    "applications_filed_raw": 1750,
+    "applications_filed_est": 1750,
+    "cases_decided": 1776,
+    "total_clearance_rate_pct": 101.49,
+    "pending_backlog_latest": 92,
+    "recent_annual_decisions": 41,
+    "years_to_clear": 2.24,
+    "ghost_rate_pct": 16.67,
+    "refugee_grant_rate_pct": 77.7,
+    "total_protection_rate_pct": 77.7,
+    "court_stages": {
+      "AR": 19,
+      "FI": 1757
+    },
+    "authority_split": {
+      "Government": 1776
+    }
+  },
+  {
+    "country_iso": "HND",
+    "country_name": "Honduras",
+    "applications_filed_raw": 1719,
+    "applications_filed_est": 1719,
+    "cases_decided": 1290,
+    "total_clearance_rate_pct": 75.04,
+    "pending_backlog_latest": 441,
+    "recent_annual_decisions": 269,
+    "years_to_clear": 1.64,
+    "ghost_rate_pct": 78.22,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FA": 48,
+      "FI": 1242
+    },
+    "authority_split": {
+      "Government": 1280,
+      "UNHCR": 10
+    }
+  },
+  {
+    "country_iso": "GMB",
+    "country_name": "Gambia",
+    "applications_filed_raw": 1702,
+    "applications_filed_est": 1702,
+    "cases_decided": 1263,
+    "total_clearance_rate_pct": 74.21,
+    "pending_backlog_latest": 509,
+    "recent_annual_decisions": 20,
+    "years_to_clear": 25.45,
+    "ghost_rate_pct": 90.26,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FA": 1064,
+      "FI": 199
+    },
+    "authority_split": {
+      "Government": 1263
+    }
+  },
+  {
+    "country_iso": "MDG",
+    "country_name": "Madagascar",
+    "applications_filed_raw": 1687,
+    "applications_filed_est": 1687,
+    "cases_decided": 397,
+    "total_clearance_rate_pct": 23.53,
+    "pending_backlog_latest": 1279,
+    "recent_annual_decisions": 33,
+    "years_to_clear": 38.76,
+    "ghost_rate_pct": 34.51,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FI": 397
+    },
+    "authority_split": {
+      "UNHCR": 397
+    }
+  },
+  {
+    "country_iso": "LIE",
+    "country_name": "Liechtenstein",
+    "applications_filed_raw": 1647,
+    "applications_filed_est": 1647,
+    "cases_decided": 922,
+    "total_clearance_rate_pct": 55.98,
+    "pending_backlog_latest": 37,
+    "recent_annual_decisions": 33,
+    "years_to_clear": 1.12,
+    "ghost_rate_pct": 56.94,
+    "refugee_grant_rate_pct": 17.38,
+    "total_protection_rate_pct": 26.2,
+    "court_stages": {
+      "FA": 96,
+      "FI": 826
+    },
+    "authority_split": {
+      "Government": 922
+    }
+  },
+  {
+    "country_iso": "SLV",
+    "country_name": "El Salvador",
+    "applications_filed_raw": 1016,
+    "applications_filed_est": 1016,
+    "cases_decided": 739,
+    "total_clearance_rate_pct": 72.74,
+    "pending_backlog_latest": 328,
+    "recent_annual_decisions": 193,
+    "years_to_clear": 1.7,
+    "ghost_rate_pct": 79.43,
+    "refugee_grant_rate_pct": 83.55,
+    "total_protection_rate_pct": 83.55,
+    "court_stages": {
+      "FI": 739
+    },
+    "authority_split": {
+      "Government": 739
+    }
+  },
+  {
+    "country_iso": "AFG",
+    "country_name": "Afghanistan",
+    "applications_filed_raw": 985,
+    "applications_filed_est": 985,
+    "cases_decided": 619,
+    "total_clearance_rate_pct": 62.84,
+    "pending_backlog_latest": 382,
+    "recent_annual_decisions": 3,
+    "years_to_clear": 127.33,
+    "ghost_rate_pct": 40.55,
+    "refugee_grant_rate_pct": 82.88,
+    "total_protection_rate_pct": 82.88,
+    "court_stages": {
+      "AR": 39,
+      "FA": 53,
+      "FI": 527
+    },
+    "authority_split": {
+      "UNHCR": 619
+    }
+  },
+  {
+    "country_iso": "CUW",
+    "country_name": "Curacao ",
+    "applications_filed_raw": 951,
+    "applications_filed_est": 951,
+    "cases_decided": 215,
+    "total_clearance_rate_pct": 22.61,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 25.12,
+    "refugee_grant_rate_pct": 78.88,
+    "total_protection_rate_pct": 78.88,
+    "court_stages": {
+      "AR": 0,
+      "FI": 215
+    },
+    "authority_split": {
+      "UNHCR": 215
+    }
+  },
+  {
+    "country_iso": "NIC",
+    "country_name": "Nicaragua",
+    "applications_filed_raw": 884,
+    "applications_filed_est": 884,
+    "cases_decided": 601,
+    "total_clearance_rate_pct": 67.99,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 62,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 51.58,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FI": 601
+    },
+    "authority_split": {
+      "Government": 601
+    }
+  },
+  {
+    "country_iso": "LSO",
+    "country_name": "Lesotho",
+    "applications_filed_raw": 853,
+    "applications_filed_est": 853,
+    "cases_decided": 636,
+    "total_clearance_rate_pct": 74.56,
+    "pending_backlog_latest": 202,
+    "recent_annual_decisions": 137,
+    "years_to_clear": 1.47,
+    "ghost_rate_pct": 37.11,
+    "refugee_grant_rate_pct": 98.75,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FA": 5,
+      "FI": 631
+    },
+    "authority_split": {
+      "Government": 636
+    }
+  },
+  {
+    "country_iso": "GAB",
+    "country_name": "Gabon",
+    "applications_filed_raw": 780,
+    "applications_filed_est": 780,
+    "cases_decided": 4989,
+    "total_clearance_rate_pct": 639.62,
+    "pending_backlog_latest": 86,
+    "recent_annual_decisions": 13,
+    "years_to_clear": 6.62,
+    "ghost_rate_pct": 56.78,
+    "refugee_grant_rate_pct": 1.3,
+    "total_protection_rate_pct": 4.87,
+    "court_stages": {
+      "FA": 4989
+    },
+    "authority_split": {
+      "Government": 4989
+    }
+  },
+  {
+    "country_iso": "CYM",
+    "country_name": "Cayman Islands",
+    "applications_filed_raw": 738,
+    "applications_filed_est": 738,
+    "cases_decided": 855,
+    "total_clearance_rate_pct": 115.85,
+    "pending_backlog_latest": 15,
+    "recent_annual_decisions": 60,
+    "years_to_clear": 0.25,
+    "ghost_rate_pct": 51.11,
+    "refugee_grant_rate_pct": 15.55,
+    "total_protection_rate_pct": 15.55,
+    "court_stages": {
+      "AR": 5,
+      "FI": 850
+    },
+    "authority_split": {
+      "Government": 850,
+      "UNHCR": 5
+    }
+  },
+  {
+    "country_iso": "OMN",
+    "country_name": "Oman",
+    "applications_filed_raw": 723,
+    "applications_filed_est": 723,
+    "cases_decided": 534,
+    "total_clearance_rate_pct": 73.86,
+    "pending_backlog_latest": 414,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 34.08,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FI": 534
+    },
+    "authority_split": {
+      "UNHCR": 534
+    }
+  },
+  {
+    "country_iso": "CUB",
+    "country_name": "Cuba",
+    "applications_filed_raw": 570,
+    "applications_filed_est": 570,
+    "cases_decided": 550,
+    "total_clearance_rate_pct": 96.49,
+    "pending_backlog_latest": 40,
+    "recent_annual_decisions": 30,
+    "years_to_clear": 1.33,
+    "ghost_rate_pct": 12.73,
+    "refugee_grant_rate_pct": 74.79,
+    "total_protection_rate_pct": 74.79,
+    "court_stages": {
+      "AR": 48,
+      "FA": 319,
+      "FI": 183
+    },
+    "authority_split": {
+      "UNHCR": 550
+    }
+  },
+  {
+    "country_iso": "ABW",
+    "country_name": "Aruba",
+    "applications_filed_raw": 542,
+    "applications_filed_est": 542,
+    "cases_decided": 5,
+    "total_clearance_rate_pct": 0.92,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 0.0,
+    "refugee_grant_rate_pct": 0.0,
+    "total_protection_rate_pct": 0.0,
+    "court_stages": {
+      "FI": 5
+    },
+    "authority_split": {
+      "Government": 0,
+      "UNHCR": 5
+    }
+  },
+  {
+    "country_iso": "BHR",
+    "country_name": "Bahrain",
+    "applications_filed_raw": 541,
+    "applications_filed_est": 541,
+    "cases_decided": 495,
+    "total_clearance_rate_pct": 91.5,
+    "pending_backlog_latest": 122,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 28.89,
+    "refugee_grant_rate_pct": 78.13,
+    "total_protection_rate_pct": 92.9,
+    "court_stages": {
+      "FI": 495
+    },
+    "authority_split": {
+      "UNHCR": 495
+    }
+  },
+  {
+    "country_iso": "KHM",
+    "country_name": "Cambodia",
+    "applications_filed_raw": 377,
+    "applications_filed_est": 377,
+    "cases_decided": 358,
+    "total_clearance_rate_pct": 94.96,
+    "pending_backlog_latest": 5,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 62.85,
+    "refugee_grant_rate_pct": 44.36,
+    "total_protection_rate_pct": 44.36,
+    "court_stages": {
+      "AR": 25,
+      "FI": 333
+    },
+    "authority_split": {
+      "Government": 323,
+      "UNHCR": 35
+    }
+  },
+  {
+    "country_iso": "QAT",
+    "country_name": "Qatar",
+    "applications_filed_raw": 375,
+    "applications_filed_est": 375,
+    "cases_decided": 291,
+    "total_clearance_rate_pct": 77.6,
+    "pending_backlog_latest": 153,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 31.62,
+    "refugee_grant_rate_pct": 97.49,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FI": 291
+    },
+    "authority_split": {
+      "UNHCR": 291
+    }
+  },
+  {
+    "country_iso": "BGD",
+    "country_name": "Bangladesh",
+    "applications_filed_raw": 360,
+    "applications_filed_est": 360,
+    "cases_decided": 292,
+    "total_clearance_rate_pct": 81.11,
+    "pending_backlog_latest": 67,
+    "recent_annual_decisions": 10,
+    "years_to_clear": 6.7,
+    "ghost_rate_pct": 50.68,
+    "refugee_grant_rate_pct": 77.78,
+    "total_protection_rate_pct": 77.78,
+    "court_stages": {
+      "FI": 292
+    },
+    "authority_split": {
+      "UNHCR": 292
+    }
+  },
+  {
+    "country_iso": "IRN",
+    "country_name": "Iran (Islamic Rep. of)",
+    "applications_filed_raw": 336,
+    "applications_filed_est": 336,
+    "cases_decided": 2185,
+    "total_clearance_rate_pct": 650.3,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 65.9,
+    "refugee_grant_rate_pct": 43.36,
+    "total_protection_rate_pct": 43.36,
+    "court_stages": {
+      "FI": 2185
+    },
+    "authority_split": {
+      "UNHCR": 2185
+    }
+  },
+  {
+    "country_iso": "MUS",
+    "country_name": "Mauritius",
+    "applications_filed_raw": 296,
+    "applications_filed_est": 296,
+    "cases_decided": 68,
+    "total_clearance_rate_pct": 22.97,
+    "pending_backlog_latest": 233,
+    "recent_annual_decisions": 19,
+    "years_to_clear": 12.26,
+    "ghost_rate_pct": 7.35,
+    "refugee_grant_rate_pct": 73.02,
+    "total_protection_rate_pct": 73.02,
+    "court_stages": {
+      "FI": 68
+    },
+    "authority_split": {
+      "UNHCR": 68
+    }
+  },
+  {
+    "country_iso": "BHS",
+    "country_name": "Bahamas",
+    "applications_filed_raw": 230,
+    "applications_filed_est": 230,
+    "cases_decided": 226,
+    "total_clearance_rate_pct": 98.26,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 13,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 24.34,
+    "refugee_grant_rate_pct": 28.65,
+    "total_protection_rate_pct": 28.65,
+    "court_stages": {
+      "FI": 226
+    },
+    "authority_split": {
+      "Government": 35,
+      "Joint": 166,
+      "UNHCR": 25
+    }
+  },
+  {
+    "country_iso": "GUY",
+    "country_name": "Guyana",
+    "applications_filed_raw": 229,
+    "applications_filed_est": 229,
+    "cases_decided": 187,
+    "total_clearance_rate_pct": 81.66,
+    "pending_backlog_latest": 29,
+    "recent_annual_decisions": 24,
+    "years_to_clear": 1.21,
+    "ghost_rate_pct": 57.75,
+    "refugee_grant_rate_pct": 87.34,
+    "total_protection_rate_pct": 87.34,
+    "court_stages": {
+      "FI": 187
+    },
+    "authority_split": {
+      "UNHCR": 187
+    }
+  },
+  {
+    "country_iso": "GNB",
+    "country_name": "Guinea-Bissau",
+    "applications_filed_raw": 167,
+    "applications_filed_est": 167,
+    "cases_decided": 330,
+    "total_clearance_rate_pct": 197.6,
+    "pending_backlog_latest": 30,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 93.03,
+    "refugee_grant_rate_pct": 78.26,
+    "total_protection_rate_pct": 78.26,
+    "court_stages": {
+      "FI": 330
+    },
+    "authority_split": {
+      "Government": 330
+    }
+  },
+  {
+    "country_iso": "VNM",
+    "country_name": "Viet Nam",
+    "applications_filed_raw": 146,
+    "applications_filed_est": 146,
+    "cases_decided": 146,
+    "total_clearance_rate_pct": 100.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 3.42,
+    "refugee_grant_rate_pct": 20.57,
+    "total_protection_rate_pct": 20.57,
+    "court_stages": {
+      "FI": 146
+    },
+    "authority_split": {
+      "UNHCR": 146
+    }
+  },
+  {
+    "country_iso": "FJI",
+    "country_name": "Fiji",
+    "applications_filed_raw": 112,
+    "applications_filed_est": 112,
+    "cases_decided": 85,
+    "total_clearance_rate_pct": 75.89,
+    "pending_backlog_latest": 31,
+    "recent_annual_decisions": 10,
+    "years_to_clear": 3.1,
+    "ghost_rate_pct": 35.29,
+    "refugee_grant_rate_pct": 81.82,
+    "total_protection_rate_pct": 81.82,
+    "court_stages": {
+      "AR": 5,
+      "FA": 10,
+      "FI": 70
+    },
+    "authority_split": {
+      "Government": 65,
+      "Joint": 20
+    }
+  },
+  {
+    "country_iso": "COM",
+    "country_name": "Comoros",
+    "applications_filed_raw": 92,
+    "applications_filed_est": 92,
+    "cases_decided": 74,
+    "total_clearance_rate_pct": 80.43,
+    "pending_backlog_latest": 14,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 25.68,
+    "refugee_grant_rate_pct": 81.82,
+    "total_protection_rate_pct": 81.82,
+    "court_stages": {
+      "FI": 74
+    },
+    "authority_split": {
+      "UNHCR": 74
+    }
+  },
+  {
+    "country_iso": "SXM",
+    "country_name": "Sint Maarten (Dutch part)",
+    "applications_filed_raw": 85,
+    "applications_filed_est": 85,
+    "cases_decided": 57,
+    "total_clearance_rate_pct": 67.06,
+    "pending_backlog_latest": 141,
+    "recent_annual_decisions": 8,
+    "years_to_clear": 17.63,
+    "ghost_rate_pct": 56.14,
+    "refugee_grant_rate_pct": 80.0,
+    "total_protection_rate_pct": 80.0,
+    "court_stages": {
+      "FA": 0,
+      "FI": 57
+    },
+    "authority_split": {
+      "UNHCR": 57
+    }
+  },
+  {
+    "country_iso": "MNG",
+    "country_name": "Mongolia",
+    "applications_filed_raw": 79,
+    "applications_filed_est": 79,
+    "cases_decided": 81,
+    "total_clearance_rate_pct": 102.53,
+    "pending_backlog_latest": 15,
+    "recent_annual_decisions": 3,
+    "years_to_clear": 5.0,
+    "ghost_rate_pct": 12.35,
+    "refugee_grant_rate_pct": 92.96,
+    "total_protection_rate_pct": 92.96,
+    "court_stages": {
+      "FI": 81
+    },
+    "authority_split": {
+      "UNHCR": 81
+    }
+  },
+  {
+    "country_iso": "VGB",
+    "country_name": "British Virgin Islands",
+    "applications_filed_raw": 59,
+    "applications_filed_est": 59,
+    "cases_decided": 33,
+    "total_clearance_rate_pct": 55.93,
+    "pending_backlog_latest": 26,
+    "recent_annual_decisions": 17,
+    "years_to_clear": 1.53,
+    "ghost_rate_pct": 100.0,
+    "refugee_grant_rate_pct": 0.0,
+    "total_protection_rate_pct": 0.0,
+    "court_stages": {
+      "FI": 33
+    },
+    "authority_split": {
+      "UNHCR": 33
+    }
+  },
+  {
+    "country_iso": "FSM",
+    "country_name": "Micronesia (Federated States of)",
+    "applications_filed_raw": 55,
+    "applications_filed_est": 55,
+    "cases_decided": 54,
+    "total_clearance_rate_pct": 98.18,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 0.0,
+    "refugee_grant_rate_pct": 9.26,
+    "total_protection_rate_pct": 9.26,
+    "court_stages": {
+      "AR": 20,
+      "FI": 34
+    },
+    "authority_split": {
+      "UNHCR": 54
+    }
+  },
+  {
+    "country_iso": "TCA",
+    "country_name": "Turks and Caicos Islands",
+    "applications_filed_raw": 44,
+    "applications_filed_est": 44,
+    "cases_decided": 45,
+    "total_clearance_rate_pct": 102.27,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 55.56,
+    "refugee_grant_rate_pct": 75.0,
+    "total_protection_rate_pct": 75.0,
+    "court_stages": {
+      "FI": 45
+    },
+    "authority_split": {
+      "Joint": 30,
+      "UNHCR": 15
+    }
+  },
+  {
+    "country_iso": "SLE",
+    "country_name": "Sierra Leone",
+    "applications_filed_raw": 40,
+    "applications_filed_est": 40,
+    "cases_decided": 252,
+    "total_clearance_rate_pct": 630.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 85.32,
+    "refugee_grant_rate_pct": 13.51,
+    "total_protection_rate_pct": 86.49,
+    "court_stages": {
+      "FI": 252
+    },
+    "authority_split": {
+      "Government": 83,
+      "Joint": 169
+    }
+  },
+  {
+    "country_iso": "HTI",
+    "country_name": "Haiti",
+    "applications_filed_raw": 40,
+    "applications_filed_est": 40,
+    "cases_decided": 56,
+    "total_clearance_rate_pct": 140.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 73.21,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "AR": 5,
+      "FI": 51
+    },
+    "authority_split": {
+      "UNHCR": 56
+    }
+  },
+  {
+    "country_iso": "JAM",
+    "country_name": "Jamaica",
+    "applications_filed_raw": 35,
+    "applications_filed_est": 35,
+    "cases_decided": 11,
+    "total_clearance_rate_pct": 31.43,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 100.0,
+    "refugee_grant_rate_pct": 0.0,
+    "total_protection_rate_pct": 0.0,
+    "court_stages": {
+      "AR": 0,
+      "FI": 11
+    },
+    "authority_split": {
+      "Government": 0,
+      "Joint": 0,
+      "UNHCR": 11
+    }
+  },
+  {
+    "country_iso": "KNA",
+    "country_name": "Saint Kitts and Nevis",
+    "applications_filed_raw": 29,
+    "applications_filed_est": 29,
+    "cases_decided": 29,
+    "total_clearance_rate_pct": 100.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 0.0,
+    "refugee_grant_rate_pct": 82.76,
+    "total_protection_rate_pct": 82.76,
+    "court_stages": {
+      "FI": 29
+    },
+    "authority_split": {
+      "Government": 10,
+      "UNHCR": 19
+    }
+  },
+  {
+    "country_iso": "BRB",
+    "country_name": "Barbados",
+    "applications_filed_raw": 28,
+    "applications_filed_est": 28,
+    "cases_decided": 10,
+    "total_clearance_rate_pct": 35.71,
+    "pending_backlog_latest": 8,
+    "recent_annual_decisions": 3,
+    "years_to_clear": 2.67,
+    "ghost_rate_pct": 50.0,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FI": 10
+    },
+    "authority_split": {
+      "UNHCR": 10
+    }
+  },
+  {
+    "country_iso": "ERI",
+    "country_name": "Eritrea",
+    "applications_filed_raw": 27,
+    "applications_filed_est": 27,
+    "cases_decided": 160,
+    "total_clearance_rate_pct": 592.59,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 84.38,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FA": 25,
+      "FI": 135
+    },
+    "authority_split": {
+      "Government": 0,
+      "UNHCR": 160
+    }
+  },
+  {
+    "country_iso": "ATG",
+    "country_name": "Antigua and Barbuda",
+    "applications_filed_raw": 25,
+    "applications_filed_est": 25,
+    "cases_decided": 25,
+    "total_clearance_rate_pct": 100.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 5,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 20.0,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FI": 25
+    },
+    "authority_split": {
+      "Joint": 15,
+      "UNHCR": 10
+    }
+  },
+  {
+    "country_iso": "MAC",
+    "country_name": "China, Macao SAR",
+    "applications_filed_raw": 25,
+    "applications_filed_est": 25,
+    "cases_decided": 30,
+    "total_clearance_rate_pct": 120.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 50.0,
+    "refugee_grant_rate_pct": 33.33,
+    "total_protection_rate_pct": 33.33,
+    "court_stages": {
+      "AR": 10,
+      "FA": 5,
+      "FI": 15
+    },
+    "authority_split": {
+      "Government": 25,
+      "Joint": 5
+    }
+  },
+  {
+    "country_iso": "VUT",
+    "country_name": "Vanuatu",
+    "applications_filed_raw": 17,
+    "applications_filed_est": 17,
+    "cases_decided": 15,
+    "total_clearance_rate_pct": 88.24,
+    "pending_backlog_latest": 7,
+    "recent_annual_decisions": 3,
+    "years_to_clear": 2.33,
+    "ghost_rate_pct": 33.33,
+    "refugee_grant_rate_pct": 0.0,
+    "total_protection_rate_pct": 0.0,
+    "court_stages": {
+      "AR": 5,
+      "FI": 10
+    },
+    "authority_split": {
+      "UNHCR": 15
+    }
+  },
+  {
+    "country_iso": "SLB",
+    "country_name": "Solomon Islands",
+    "applications_filed_raw": 15,
+    "applications_filed_est": 15,
+    "cases_decided": 15,
+    "total_clearance_rate_pct": 100.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 3,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 66.67,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FI": 15
+    },
+    "authority_split": {
+      "Government": 0,
+      "Joint": 10,
+      "UNHCR": 5
+    }
+  },
+  {
+    "country_iso": "LCA",
+    "country_name": "Saint Lucia",
+    "applications_filed_raw": 10,
+    "applications_filed_est": 10,
+    "cases_decided": 10,
+    "total_clearance_rate_pct": 100.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 3,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 0.0,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FI": 10
+    },
+    "authority_split": {
+      "UNHCR": 10
+    }
+  },
+  {
+    "country_iso": "SGP",
+    "country_name": "Singapore",
+    "applications_filed_raw": 10,
+    "applications_filed_est": 10,
+    "cases_decided": 10,
+    "total_clearance_rate_pct": 100.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 50.0,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FA": 5,
+      "FI": 5
+    },
+    "authority_split": {
+      "UNHCR": 10
+    }
+  },
+  {
+    "country_iso": "PLW",
+    "country_name": "Palau",
+    "applications_filed_raw": 10,
+    "applications_filed_est": 10,
+    "cases_decided": 10,
+    "total_clearance_rate_pct": 100.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 3,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 0.0,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FI": 10
+    },
+    "authority_split": {
+      "UNHCR": 10
+    }
+  },
+  {
+    "country_iso": "LAO",
+    "country_name": "Lao People's Dem. Rep.",
+    "applications_filed_raw": 10,
+    "applications_filed_est": 10,
+    "cases_decided": 10,
+    "total_clearance_rate_pct": 100.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 0.0,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FI": 10
+    },
+    "authority_split": {
+      "UNHCR": 10
+    }
+  },
+  {
+    "country_iso": "GRD",
+    "country_name": "Grenada",
+    "applications_filed_raw": 10,
+    "applications_filed_est": 10,
+    "cases_decided": 5,
+    "total_clearance_rate_pct": 50.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 0.0,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FI": 5
+    },
+    "authority_split": {
+      "UNHCR": 5
+    }
+  },
+  {
+    "country_iso": "TKM",
+    "country_name": "Turkmenistan",
+    "applications_filed_raw": 6,
+    "applications_filed_est": 6,
+    "cases_decided": 5,
+    "total_clearance_rate_pct": 83.33,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 100.0,
+    "refugee_grant_rate_pct": 0.0,
+    "total_protection_rate_pct": 0.0,
+    "court_stages": {
+      "FI": 5
+    },
+    "authority_split": {
+      "Government": 5
+    }
+  },
+  {
+    "country_iso": "GNQ",
+    "country_name": "Equatorial Guinea",
+    "applications_filed_raw": 5,
+    "applications_filed_est": 5,
+    "cases_decided": 5,
+    "total_clearance_rate_pct": 100.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 3,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 0.0,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FI": 5
+    },
+    "authority_split": {
+      "UNHCR": 5
+    }
+  },
+  {
+    "country_iso": "DMA",
+    "country_name": "Dominica",
+    "applications_filed_raw": 5,
+    "applications_filed_est": 5,
+    "cases_decided": 0,
+    "total_clearance_rate_pct": 0.0,
+    "pending_backlog_latest": 5,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 0.0,
+    "refugee_grant_rate_pct": 0.0,
+    "total_protection_rate_pct": 0.0,
+    "court_stages": {
+      "FI": 0
+    },
+    "authority_split": {
+      "UNHCR": 0
+    }
+  },
+  {
+    "country_iso": "STP",
+    "country_name": "Sao Tome and Principe",
+    "applications_filed_raw": 5,
+    "applications_filed_est": 5,
+    "cases_decided": 0,
+    "total_clearance_rate_pct": 0.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 0.0,
+    "refugee_grant_rate_pct": 0.0,
+    "total_protection_rate_pct": 0.0,
+    "court_stages": {
+      "FI": 0
+    },
+    "authority_split": {
+      "UNHCR": 0
+    }
+  },
+  {
+    "country_iso": "WSM",
+    "country_name": "Samoa",
+    "applications_filed_raw": 5,
+    "applications_filed_est": 5,
+    "cases_decided": 5,
+    "total_clearance_rate_pct": 100.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 0.0,
+    "refugee_grant_rate_pct": 100.0,
+    "total_protection_rate_pct": 100.0,
+    "court_stages": {
+      "FI": 5
+    },
+    "authority_split": {
+      "UNHCR": 5
+    }
+  },
+  {
+    "country_iso": "TLS",
+    "country_name": "Timor-Leste",
+    "applications_filed_raw": 0,
+    "applications_filed_est": 0,
+    "cases_decided": 5,
+    "total_clearance_rate_pct": 0.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 100.0,
+    "refugee_grant_rate_pct": 0.0,
+    "total_protection_rate_pct": 0.0,
+    "court_stages": {
+      "FA": 5
+    },
+    "authority_split": {
+      "Government": 5
+    }
+  },
+  {
+    "country_iso": "MSR",
+    "country_name": "Montserrat",
+    "applications_filed_raw": 0,
+    "applications_filed_est": 0,
+    "cases_decided": 15,
+    "total_clearance_rate_pct": 0.0,
+    "pending_backlog_latest": 0,
+    "recent_annual_decisions": 0,
+    "years_to_clear": 0.0,
+    "ghost_rate_pct": 100.0,
+    "refugee_grant_rate_pct": 0.0,
+    "total_protection_rate_pct": 0.0,
+    "court_stages": {
+      "FI": 15
+    },
+    "authority_split": {
+      "UNHCR": 15
+    }
+  }
+]

@@ -1,0 +1,149 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  :root {
+    /* ===================================================================
+       SYSTEM FONT SWITCHER:
+       Uncomment ONE of the 3 fonts below to test that font system-wide.
+       All components, tables, charts, and text will instantly update.
+       =================================================================== */
+    /* --font-active: var(--font-jakarta);     
+    /* --font-active: var(--font-manrope); */
+    /* --font-active: var(--font-inter); */
+    --font-active: var(--font-jakarta);
+
+    --background: 0 0% 100%;
+    --foreground: 240 10% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 3.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+    --primary: 240 5.9% 10%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 240 4.8% 95.9%;
+    --secondary-foreground: 240 5.9% 10%;
+    --muted: 240 4.8% 95.9%;
+    --muted-foreground: 240 3.8% 46.1%;
+    --accent: 240 4.8% 95.9%;
+    --accent-foreground: 240 5.9% 10%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 5.9% 90%;
+    --input: 240 5.9% 90%;
+    --ring: 240 5.9% 10%;
+    --radius: 0.5rem;
+    --sidebar-background: 0 0% 100%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-border: 240 5.9% 90%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+
+    /* Multi-Dimensional Semantic Chart Tokens */
+    /* Light Mode */
+    --chart-1: 221 83% 53%; /* Royal Cobalt #2563EB (Refugee Grants / Intake) */
+    --chart-2: 173 80% 32%; /* Deep Teal #0D9488 (Complementary / Decisions) */
+    --chart-3: 215 16% 47%; /* Slate Charcoal #64748B (Formal Rejections) */
+    --chart-4: 38 92% 44%;  /* Warm Amber #D97706 (Closed Without Decision) */
+    --chart-5: 199 89% 40%; /* Electric Cyan #0284C7 (UNHCR Mandate) */
+    --chart-6: 224 76% 40%; /* Deep Royal Navy #1E40AF (Sovereign Authority) */
+  }
+
+  .dark {
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 73%;
+    --accent: 240 3.7% 15.9%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 240 4.9% 83.9%;
+    --sidebar-background: 240 10% 3.9%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 0 0% 98%;
+
+    /* Dark Mode: Luminous, high-contrast values tuned for deep black UI */
+    --chart-1: 221 83% 60%; /* Vibrant Cobalt #3B82F6 (Refugee Grants / Intake) */
+    --chart-2: 173 80% 40%; /* Luminous Teal #14B8A6 (Complementary / Decisions) */
+    --chart-3: 215 16% 65%; /* Slate Steel #94A3B8 (Formal Rejections) */
+    --chart-4: 38 92% 50%;  /* Radiant Amber #F59E0B (Closed Without Decision) */
+    --chart-5: 199 89% 55%; /* Cyber Sky Blue #38BDF8 (UNHCR Mandate) */
+    --chart-6: 224 76% 65%; /* Royal Sapphire #60A5FA (Sovereign Authority) */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  html,
+  body {
+    @apply bg-background text-foreground antialiased selection:bg-zinc-200 dark:selection:bg-zinc-800;
+    font-family: var(--font-active), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important; 
+    overflow-x: hidden;
+  }
+}
+
+/* Precision scrollbars */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--border));
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground) / 0.4);
+}
+
+/* Custom MapLibre Popup Theme */
+.maplibregl-popup.maplibre-custom-popup {
+  z-index: 40;
+}
+.maplibre-custom-popup .maplibregl-popup-content {
+  background: hsl(var(--card)) !important;
+  color: hsl(var(--foreground)) !important;
+  border: 1px solid hsl(var(--border)) !important;
+  border-radius: 0.5rem !important;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.16) !important;
+  padding: 0.5rem 0.65rem !important;
+}
+.maplibre-custom-popup .maplibregl-popup-tip {
+  border-top-color: hsl(var(--card)) !important;
+  border-bottom-color: hsl(var(--card)) !important;
+  border-left-color: hsl(var(--card)) !important;
+  border-right-color: hsl(var(--card)) !important;
+}
+
+/* Functional Micro-Transitions (High Signal, <= 200ms) */
+@keyframes viewFade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-view-fade {
+  animation: viewFade 180ms ease-out;
+}

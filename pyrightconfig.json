@@ -1,0 +1,8 @@
+{
+  "include": [
+    "scripts",
+    "notebooks"
+  ],
+  "reportUndefinedVariable": "none",
+  "typeCheckingMode": "off"
+}

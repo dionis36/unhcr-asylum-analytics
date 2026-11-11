@@ -1,0 +1,14 @@
+{
+  "active_pending_backlog": 8998097,
+  "applications_filed_raw": 32524694,
+  "applications_filed_est": 33139875,
+  "cases_decided": 26923303,
+  "refugee_grants": 6286715,
+  "temporary_protection": 2651762,
+  "cases_rejected": 8914230,
+  "closed_without_decision": 9059381,
+  "clearance_rate_pct": 81.24,
+  "net_caseload_gap": 6216572,
+  "ghost_rate_pct": 33.65,
+  "data_window": "2010-2025"
+}
