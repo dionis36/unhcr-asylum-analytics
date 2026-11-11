@@ -23,7 +23,7 @@ export function DashboardViewLayout({
   const { kpis, trends, countries, corridors, loading, missingFiles } = useDashboardData();
 
   useEffect(() => {
-    document.title = `${title} | UNHCR Asylum Operations Analytics`;
+    document.title = `${title} | UNHCR Asylum Analytics`;
   }, [title]);
 
   return (

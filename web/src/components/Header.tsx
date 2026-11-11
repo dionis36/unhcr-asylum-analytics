@@ -89,7 +89,7 @@ export function Header({}: HeaderProps = {}) {
           <Link
             href="/"
             className="flex items-center gap-2.5 sm:gap-3 cursor-pointer group focus:outline-none"
-            title="UNHCR Asylum Operations Analytics Home"
+            title="UNHCR Asylum Analytics Home"
           >
             <UnhcrEmblem className="h-8 w-8 sm:h-9 sm:w-9 text-[#0072bc] dark:text-sky-400 shrink-0 transition-transform group-hover:scale-105" />
             <div className="flex flex-col">

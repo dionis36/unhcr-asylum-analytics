@@ -20,7 +20,7 @@ export function ViewMethodology() {
 
           <div className="flex flex-wrap items-center gap-2 text-xs shrink-0">
             <a
-              href="https://github.com/dionis36/unhcr-asylum-operations-analytics"
+              href="https://github.com/dionis36/unhcr-asylum-analytics"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1.5 rounded-md border border-border bg-muted/40 hover:bg-muted px-2.5 py-1.5 font-semibold text-foreground transition-colors shadow-xs"

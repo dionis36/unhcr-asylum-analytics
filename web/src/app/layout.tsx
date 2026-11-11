@@ -23,7 +23,7 @@ const jakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "UNHCR Asylum Operations Analytics (2010–2025)",
+  title: "UNHCR Asylum Analytics (2010–2025)",
   description:
     "16-Year UNHCR operations, decision outcomes, and backlog audit across 186 sovereign nations.",
 };
